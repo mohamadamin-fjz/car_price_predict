@@ -2,7 +2,7 @@ import streamlit as st
 from joblib import load
 import numpy as np
 
-loaded_rf_model = load('C:/Users/pro/Desktop/random_forest_model.joblib')
+loaded_rf_model = load('random_forest_model.joblib')
 def predict_price(year, distance, car_type):
     # Convert car_type to numerical value (if needed)
     # Perform any additional preprocessing if necessary
