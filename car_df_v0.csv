@@ -1,0 +1,941 @@
+,Unnamed: 0,title,time_since_posted,year,kilometers,trim,location,price,im_link
+0,0,پراید,1 ساعت پیش,1393,126000,SE,تهران / قیطریه,211000000.0,/images/default-images/default-car-white.svg
+1,1,چانگان,1 ساعت پیش,1398,66000,اتوماتیک,لواسان,835000000.0,/images/default-images/default-car-white.svg
+2,2,کیا,1 ساعت پیش,1389,200000,دنده ای,کرج / مشکین‌دشت,258000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fa2a5304-97ff-4307-aef2-f211870afcd9/CarImage_638375878457971453_thumb_900_600.jpg?width=270
+3,3,ساینا,2 ساعت پیش,1402,0,دنده ای بنزینی,کرج / محمدشهر,360000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d5fe7c30-e4c0-442b-ac6a-8abcf712353a/CarImage_638375847737149813_thumb_900_600.jpg?width=270
+4,4,تیبا,,1396,80000,EX,تهران / اتحاد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1d71eccd-5321-4998-acfc-8ef20309d84a/CarImage_638375429691581490_thumb_900_600.jpg?width=270
+5,5,چانگان,,1396,750000,اتوماتیک,مشهد / دانشجو,680000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/36a1517c-0ae4-4438-9697-e6324cd2af87/CarImage_638375425147757892_thumb_900_600.jpg?width=270
+6,6,شاهین,,1400,38500,دنده ای,هشتگرد / چهارباغ کمالشهر,525000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e41e1b7b-f94f-4beb-adc6-ef675feac5d7/CarImage_638375061040184151_thumb_900_600.jpg?width=270
+7,7,شاهین,1 ساعت پیش,1402,0,دنده ای,تهران / پیروزی,582500000.0,/images/default-images/default-car-white.svg
+8,8,ساینا,1 ساعت پیش,1399,20178,دنده ای بنزینی,تهران / نظام‌آباد,,/images/default-images/default-car-white.svg
+9,9,تیبا,1 ساعت پیش,1399,25000,EX,تهران / خاوران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5cc23e6f-0b1f-4163-95bf-d5e676abcae9/CarImage_638375880529085593_thumb_900_600.jpg?width=270
+10,10,کوییک,1 ساعت پیش,1402,0,دنده ای,کرمانشاه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7cf74f20-90c5-47b7-8b35-8dc3d7875e8b/CarImage_638375868982522279_thumb_900_600.png?width=270
+11,11,کوییک,2 ساعت پیش,1402,0,دنده ای,مراغه,350000000.0,/images/default-images/default-car-white.svg
+12,12,پراید,2 ساعت پیش,1387,260000,دنده ای,قزوین,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d0bd53a9-9143-4c4a-9a92-4c324c1a262c/CarImage_638375861190386202_thumb_900_600.jpg?width=270
+13,13,تیبا,2 ساعت پیش,1400,90000,SX بنزینی,رباط کریم,295000000.0,/images/default-images/default-car-white.svg
+14,14,کوییک,2 ساعت پیش,1401,28600,دنده ای,زنجان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/20d3ef45-22e6-4906-9796-4e7679a720ba/CarImage_638375852451931813_thumb_900_600.jpg?width=270
+15,15,پراید,2 ساعت پیش,1395,31000,SE,بابل,,/images/default-images/default-car-white.svg
+16,16,پراید,2 ساعت پیش,1384,200000,دنده ای,رشت / امام حسین,117000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f0f79b47-e01e-4a6f-8f9f-78592ec2e785/CarImage_638375837588711474_thumb_900_600.jpeg?width=270
+17,17,چانگان,2 ساعت پیش,1397,46000,اتوماتیک,شیراز / شهرک پرواز,780000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4e83aa9e-6168-44ab-9d00-05840ae69cdf/CarImage_638373222796673850_thumb_900_600.jpg?width=270
+18,18,کوییک,3 ساعت پیش,1402,10300,اتوماتیک,رباط کریم,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5f78f72c-6f6c-48b4-a02a-212aa15a7705/CarImage_638375826280872217_thumb_900_600.jpg?width=270
+19,19,پراید,3 ساعت پیش,1389,250000,SE,هشتگرد,145000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7e8f12d2-f447-4b65-ba2b-84dc3e348583/CarImage_638375808316705141_thumb_900_600.jpg?width=270
+20,20,پراید,3 ساعت پیش,1390,215000,SL,تهران / دروازه شمیران,,/images/default-images/default-car-white.svg
+21,21,کوییک,4 ساعت پیش,1399,14000,دنده ای,تهران / دروازه شمیران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/61893524-8305-48d4-9a28-6191af343c9b/CarImage_638375925728928427_thumb_900_600.jpg?width=270
+22,22,چانگان,4 ساعت پیش,1396,117000,اتوماتیک,اصفهان / ملک‌شهر,720000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6144472d-eeb4-4ac9-889d-252503f29a49/CarImage_638372389528361201_thumb_900_600.jpg?width=270
+23,23,تیبا,4 ساعت پیش,1396,77000,SX بنزینی,تهران / آبشار,239000000.0,/images/default-images/default-car-white.svg
+24,24,کوییک,4 ساعت پیش,1401,25000,دنده ای,مشهد / الهیه,325000000.0,/images/default-images/default-car-white.svg
+25,25,پراید,4 ساعت پیش,1397,100000,SE,تهران / تهرانپارس شرقی,239000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b184d181-a1d6-4ef9-8f66-cfb99b564c44/CarImage_638375763301233833_thumb_900_600.jpg?width=270
+26,26,سیتروئن,5 ساعت پیش,1389,300000,2.0 لیتر SX,تهران / تهران‌سر,430000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d7cf2e20-0eb8-4d4e-9bd6-dbd71304044f/CarImage_638375758241057208_thumb_900_600.jpeg?width=270
+27,27,پراید,5 ساعت پیش,1391,130000,SL,اسلام شهر,175000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4dc8c63b-875c-4b6a-ab38-0dade3791f6c/CarImage_638375756088455150_thumb_900_600.jpg?width=270
+28,28,کیا,5 ساعت پیش,1389,163000,دنده ای,ملارد,300000000.0,/images/default-images/default-car-white.svg
+29,29,کوییک,5 ساعت پیش,1402,0,دنده ای,تهران / ولنجک,350000000.0,/images/default-images/default-car-white.svg
+30,30,پراید,5 ساعت پیش,1394,154000,TL,قم / آذر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c3c99960-233b-4c35-bddb-7ef2f7eb3791/CarImage_638375744823974341_thumb_900_600.jpg?width=270
+31,31,تیبا,5 ساعت پیش,1397,28500,EX,رشت,250000000.0,/images/default-images/default-car-white.svg
+32,32,پراید,5 ساعت پیش,1386,292000,دنده ای,تهران / جنت‌آباد مرکزی,,/images/default-images/default-car-white.svg
+33,33,کوییک,5 ساعت پیش,1400,0,دنده ای,تهران / فاطمی,,/images/default-images/default-car-white.svg
+34,34,پراید,5 ساعت پیش,1396,128000,SE,اراک,,/images/default-images/default-car-white.svg
+35,35,پراید,5 ساعت پیش,1393,256000,SE,تبریز,203000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e33b46ad-66af-4572-8e6d-c5d787189592/CarImage_638375725534254856_thumb_900_600.jpg?width=270
+36,36,کوییک,6 ساعت پیش,1402,0,اتوماتیک,کرمان,,/images/default-images/default-car-white.svg
+37,37,کوییک,6 ساعت پیش,1401,12000,دنده ای,تهران / نازی اباد,322000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/40322261-2ac9-429a-aa4b-7c50e3829f59/CarImage_638375703064381153_thumb_900_600.jpg?width=270
+38,38,زوتی,6 ساعت پیش,1401,0,1.6 لیتر اتوماتیک,تهران / نارمک جنوبی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4ba0d318-8546-4fab-84a8-d1bc8d7b2a2e/CarImage_638375700022151944_thumb_900_600.jpg?width=270
+39,39,تیبا,6 ساعت پیش,1398,80000,SX بنزینی,تنکابن / سلمان شهر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/62733100-6733-4ca0-a567-d550744012bc/CarImage_638375699097980381_thumb_900_600.jpg?width=270
+40,40,ساینا,7 ساعت پیش,1400,26000,دنده ای,تهران / حکیمیه,303000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/95c68f4d-f01a-44d8-9235-190827a7401a/CarImage_638375687167230368_thumb_900_600.jpg?width=270
+41,41,کیا,7 ساعت پیش,1394,42000,2.0 لیتر ساده,تهران / بهجت‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5a9a1ab2-b7ae-49ac-9e85-6654704fb76a/CarImage_638375682734941091_thumb_900_600.png?width=270
+42,42,کوییک,7 ساعت پیش,1401,13700,دنده ای,تهران / شهران جنوبی,330000000.0,/images/default-images/default-car-white.svg
+43,43,پراید,7 ساعت پیش,1399,35000,SE,تهران / تجریش,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ac31d52e-2ece-411c-b76f-c4cc4f4b875a/CarImage_638375669193672411_thumb_900_600.jpeg?width=270
+44,44,سیتروئن,7 ساعت پیش,1387,280000,2.0 لیتر SX,تهران / پونک,375000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/26bc6ba8-ab3d-47ba-867a-7d7ac7bb26f0/CarImage_638375668433964904_thumb_900_600.jpg?width=270
+45,45,پراید,7 ساعت پیش,1389,200000,LX,کرج / مهرشهر - فاز 1,185000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3b98b978-dc89-4247-96c1-8efae8c9f16b/CarImage_638375667861748596_thumb_900_600.jpg?width=270
+46,46,تیبا,7 ساعت پیش,1401,10500,EX,تهران / جیحون,320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3dfcccd5-1379-43b5-a98e-a61cedbccf95/CarImage_638375666458823280_thumb_900_600.jpg?width=270
+47,47,ساینا,7 ساعت پیش,1396,77000,دنده ای,تهران / افسریه,,/images/default-images/default-car-white.svg
+48,48,زوتی,7 ساعت پیش,1397,88000,1.6 لیتر اتوماتیک,تبریز,500000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ed237148-f4af-412a-b786-6ff2a73dbd4f/CarImage_638375653361991296_thumb_900_600.jpg?width=270
+49,49,زوتی,7 ساعت پیش,1397,106000,1.6 لیتر اتوماتیک,تهران / گیشا (کوی نصر),550000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/889ad0ae-e34c-4633-83c7-3528ad6c4d33/CarImage_638287464162431452_thumb_900_600.jpg?width=270
+50,50,شاهین,8 ساعت پیش,1402,0,دنده ای,تهران / دانشگاه شریف,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f0a0b49a-628c-451f-bc5e-f44df9b26437/CarImage_638375650988762453_thumb_900_600.jpeg?width=270
+51,51,برلیانس,8 ساعت پیش,1397,60000,1.65 دنده ای,همدان,617000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c7d67883-68a9-49e0-bb00-1f634f3d709e/CarImage_638375650012518340_thumb_900_600.jpg?width=270
+52,52,کوییک,8 ساعت پیش,1402,0,دنده ای,تهران / دانشگاه شریف,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fe8fe242-b380-4b1f-9eff-1dd3c312b6f9/CarImage_638375649750493709_thumb_900_600.jpeg?width=270
+53,53,پراید,8 ساعت پیش,1381,241000,دنده ای,تهران / هفت حوض,87000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ab273697-b198-4e1c-9538-1e64268b0579/CarImage_638375642488844272_thumb_900_600.jpeg?width=270
+54,54,پراید,8 ساعت پیش,1398,39000,SE,شیراز / صاحب دیوان,260000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6fdd2243-8d41-4df0-abea-63a67ab48f62/CarImage_638375641558753519_thumb_900_600.jpg?width=270
+55,55,برلیانس,8 ساعت پیش,1396,76000,1.5 دنده ای,گلپایگان,510000000.0,/images/default-images/default-car-white.svg
+56,56,سیتروئن,8 ساعت پیش,1386,121000,2.0 لیتر SX,تهران / نواب,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f8432c03-e201-4326-9747-66c3051b4cee/CarImage_638375627455824174_thumb_900_600.jpg?width=270
+57,57,کیا,8 ساعت پیش,1396,84000,1.6 لیتر آپشنال,کرج / مهرشهر,1100000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c6c1d3bb-b2d7-4731-a8d5-c47dadb1a564/CarImage_638375621670538368_thumb_900_600.jpg?width=270
+58,58,پراید,8 ساعت پیش,1386,470000,دنده ای,کرج / دهقان ویلا,120000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/22be6149-b38f-4593-91cf-f441a912b06e/CarImage_638375621307009827_thumb_900_600.jpg?width=270
+59,59,سیتروئن,8 ساعت پیش,1389,250000,2.0 لیتر SX,فریدون کنار,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cc666a9a-28d9-42b3-9c01-3db078632f01/CarImage_638375617577936477_thumb_900_600.jpg?width=270
+60,60,کیا,8 ساعت پیش,1396,75000,2.0 لیتر آپشنال,تهران / میدان هروی,900000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d78c0640-794f-4d18-be24-ef0d05a0dc44/CarImage_638375617109348838_thumb_900_600.jpeg?width=270
+61,61,تیبا,9 ساعت پیش,1395,51200,EX,تهران / جنت‌آباد جنوبی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f640b677-cf74-473c-b7b2-8fce5efe5b21/CarImage_638375611686937522_thumb_900_600.jpg?width=270
+62,62,شاهین,9 ساعت پیش,1401,0,دنده ای,تهران / میدان هروی,538000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4e5385f6-5960-4894-9135-f21ba676b351/CarImage_638368525449322787_thumb_900_600.jpeg?width=270
+63,63,شاهین,9 ساعت پیش,1402,0,دنده ای,مشهد / 17شهریور,565000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/59fd1871-edae-4a84-86a9-16c62c3a6253/CarImage_638375602292338625_thumb_900_600.jpg?width=270
+64,64,کوییک,9 ساعت پیش,1401,0,دنده ای,تهران / شهران جنوبی,325000000.0,/images/default-images/default-car-white.svg
+65,65,تیبا,9 ساعت پیش,1400,0,EX,کرج / گوهردشت,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/11cbea53-36ca-48ad-837a-c7e05edb8bf1/CarImage_638375587890654999_thumb_900_600.jpg?width=270
+66,66,پراید,9 ساعت پیش,1390,186000,SL,مشهد / قاسم‌آباد (شهرک غرب),,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9eea69c7-55d8-490c-bae6-4b51fbecb225/CarImage_638375585825880034_thumb_900_600.jpeg?width=270
+67,67,پراید,10 ساعت پیش,1394,167000,SE,تهران / نارمک,215000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1e0cd26e-c08b-4c74-ba64-1048eb4e9d9c/CarImage_638375811512231175_thumb_900_600.jpg?width=270
+68,68,کیا,10 ساعت پیش,1397,0,2.0 لیتر آپشنال,تهران / اختیاریه,,/images/default-images/default-car-white.svg
+69,69,پراید,10 ساعت پیش,1382,400000,دنده ای,کرج / مهرشهر - فاز 1,107000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0a908d35-a676-492d-80fe-e38a1caaf5e6/CarImage_638375573667071576_thumb_900_600.jpg?width=270
+70,70,شاهین,10 ساعت پیش,1402,0,دنده ای,تهران / جمهوری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5ea60da0-04e7-45c7-92cf-e0eee27b5727/CarImage_638360733187292825_thumb_900_600.jpg?width=270
+71,71,تیبا,10 ساعت پیش,1395,330000,EX,گرگان,235000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fc998ca8-06bf-433b-b526-d6433cef470d/CarImage_638375682909768703_thumb_900_600.jpg?width=270
+72,72,چانگان,10 ساعت پیش,1398,17000,اتوماتیک,تهران / پاسداران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/12120dd7-576e-4507-bcda-811bb9f6fd02/CarImage_638375554075590892_thumb_900_600.jpg?width=270
+73,73,پراید,10 ساعت پیش,1398,67000,SE,تهران / صادقیه,225000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/249213fa-ccf9-4814-ab81-f76918e20f3f/CarImage_638375548218532104_thumb_900_600.jpeg?width=270
+74,74,تیبا,10 ساعت پیش,1398,100000,SX بنزینی,تهران / آهنگ,273000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/14528ff7-ec04-4838-82ce-554b19db70ce/CarImage_638375551819882263_thumb_900_600.jpg?width=270
+75,75,پراید,10 ساعت پیش,1385,270000,دنده ای,تنکابن,140000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/be25e06a-f135-4f14-885c-29a069b7a7e0/CarImage_638375544793474433_thumb_900_600.jpg?width=270
+76,76,پراید,11 ساعت پیش,1390,370000,SX,کرج / 350 متری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/61297779-4352-43f8-88e6-729ea936079f/CarImage_638375543689373312_thumb_900_600.jpg?width=270
+77,77,شاهین,11 ساعت پیش,1402,0,دنده ای,تهران / پیروزی,598000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c450b974-72d2-4f03-ace5-4c428fea0167/CarImage_638375543430557535_thumb_900_600.jpeg?width=270
+78,78,چانگان,11 ساعت پیش,1397,20000,اتوماتیک,تهران / پاسداران,835000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fa7ed6aa-2ed5-4d2a-9371-4ab2883b021d/CarImage_638371919079070138_thumb_900_600.jpg?width=270
+79,79,کوییک,11 ساعت پیش,1402,0,دنده ای,تهران / توحید,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/37c2797e-28f5-4106-927f-d36adc7b3ffc/CarImage_638375537488376601_thumb_900_600.jpeg?width=270
+80,80,کوییک,11 ساعت پیش,1402,0,اتوماتیک,تهران / شهر زیبا,431000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a0ba6ae3-98b2-4c1b-8ed9-e7054e9f1d12/CarImage_638375541940396603_thumb_900_600.jpg?width=270
+81,81,پراید,11 ساعت پیش,1398,92000,SE,تهران / اقدسیه,230000000.0,/images/default-images/default-car-white.svg
+82,82,چانگان,11 ساعت پیش,2023,0,تیپ 2,تهران / توحید,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b71b87dc-a40c-408c-9277-e459da002176/CarImage_638375534148635094_thumb_900_600.jpeg?width=270
+83,83,برلیانس,11 ساعت پیش,1396,140000,1.5 دنده ای,نجف آباد,,/images/default-images/default-car-white.svg
+84,84,چانگان,11 ساعت پیش,2023,0,تیپ 3,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f11ad9e1-8904-4601-99d2-c103486492d7/CarImage_638334942926936287_thumb_900_600.jpg?width=270
+85,85,کوییک,11 ساعت پیش,1401,0,دنده ای,تهران / پونک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f83b70e4-f903-4617-a9af-40b79e66f6de/CarImage_638357386887063734_thumb_900_600.jpeg?width=270
+86,86,پراید,11 ساعت پیش,1396,115800,SE,اسلام شهر,230000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/78f3e5b2-d1aa-4bda-895f-0a7e2c45b84b/CarImage_638375513815637772_thumb_900_600.jpg?width=270
+87,87,تیبا,11 ساعت پیش,1400,76000,EX,تهران / میدان هروی,285000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d69d2429-9540-4d45-85cb-f5849103fcfb/CarImage_638375512965580317_thumb_900_600.jpg?width=270
+88,88,کوییک,11 ساعت پیش,1402,0,دنده ای,سیرجان,348000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/814e7a92-a92e-488f-855d-81a8a6d54f27/CarImage_638375512949056871_thumb_900_600.jpg?width=270
+89,89,کوییک,12 ساعت پیش,1402,0,دنده ای,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/10dacab2-fb39-46c8-b049-047802e4d30e/CarImage10514501_638204357023508716_thumb_900_600.jpeg?width=270
+90,90,پراید,12 ساعت پیش,1401,0,SE,تهران / ازگل,268000000.0,/images/default-images/default-car-white.svg
+91,91,شاهین,12 ساعت پیش,1402,0,CVT,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c83b843d-607f-4e75-8483-668304ca3878/CarImage_638365972914649930_thumb_900_600.jpeg?width=270
+92,92,چانگان,12 ساعت پیش,2023,0,تیپ 3,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a1238d11-8db8-4847-9ee4-888bc20d1f62/CarImage_638344375354273137_thumb_900_600.jpg?width=270
+93,93,کوییک,12 ساعت پیش,1402,0,دنده ای,تهران / سعادت آباد,352000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/30790e0e-dc2e-40cd-8bc5-d621e2566ec2/CarImage_638375502114494564_thumb_900_600.jpg?width=270
+94,94,پراید,12 ساعت پیش,1386,380000,دنده ای,تهران / اوقاف,140000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/68deea31-7b4b-4735-991e-bd17468914e4/CarImage_638375501855793085_thumb_900_600.jpg?width=270
+95,95,کوییک,12 ساعت پیش,1402,0,اتوماتیک,تهران / شهر زیبا,447000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/54cccfe6-05c0-4188-8bc3-bef801de735b/CarImage_638375500620300262_thumb_900_600.jpeg?width=270
+96,96,تیبا,12 ساعت پیش,1395,139000,SX,اصفهان / اصفهان خیابان زینبیه,243000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/20af775b-88ac-4e4a-8cd9-a1d135510235/CarImage_638375500585869523_thumb_900_600.jpg?width=270
+97,97,پراید,12 ساعت پیش,1398,0,SE,لواسان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a6a4cb69-c80e-476b-bcea-8d7b05218d1e/CarImage_638375491410526927_thumb_900_600.jpg?width=270
+98,98,پراید,12 ساعت پیش,1386,260000,دنده ای,تهران / نیرو هوایی,129000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3b10977b-9959-4867-ac7e-f1d804bc0528/CarImage_638375491127563172_thumb_900_600.jpeg?width=270
+99,99,کوییک,12 ساعت پیش,1402,0,دنده ای,تهران / تهرانسر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a18707f5-9e17-45c2-bc37-92c9cf685c01/CarImage_638375488960750818_thumb_900_600.jpg?width=270
+100,100,کیا,12 ساعت پیش,1394,180000,2.0 لیتر ساده,اصفهان / امیریه,1120000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/294912b4-2d16-4ea8-b253-e82a2ec8027b/CarImage_638375482057525165_thumb_900_600.jpg?width=270
+101,101,پراید,12 ساعت پیش,1398,47000,SE,کرج / گوهردشت,270000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1ab111ae-6b08-4958-92d9-f5997381c042/CarImage_638375480787253410_thumb_900_600.jpg?width=270
+102,102,شاهین,12 ساعت پیش,1402,0,دنده ای,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6de27f64-0043-4002-9892-ed3df4ce4e3e/CarImage_638363291425815557_thumb_900_600.jpg?width=270
+103,103,کوییک,12 ساعت پیش,1401,0,دنده ای,تهران / هروی,338000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/983dab1e-600c-4474-91fc-9f292f867749/CarImage_638375478087330925_thumb_900_600.jpg?width=270
+104,104,تیبا,12 ساعت پیش,1396,160000,EX,کرج / گوهردشت,250000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4931dab1-2b1e-4360-9f99-9f7fa895a5a7/CarImage_638375477560300603_thumb_900_600.jpg?width=270
+105,105,پراید,12 ساعت پیش,1398,42000,SE,تهران / حکیمیه,245000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7c8a9b39-b50a-4732-bc9f-db84d447d681/CarImage_638375474467035211_thumb_900_600.jpg?width=270
+106,106,کیا,12 ساعت پیش,1396,160000,2.0 لیتر آپشنال,کرج / آزادگان,1350000000.0,/images/default-images/default-car-white.svg
+107,107,پراید,13 ساعت پیش,1402,0,SE,تهران / آزادی,275000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d3efc9bf-1bcd-4cd9-a6eb-baa87e1bec79/CarImage_638375471867310594_thumb_900_600.jpg?width=270
+108,108,چانگان,13 ساعت پیش,2023,0,تیپ 3,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d1e16b5b-819f-46fd-82e8-66f6d24482a4/CarImage_638375467506110282_thumb_900_600.jpeg?width=270
+109,109,کوییک,13 ساعت پیش,1402,0,اتوماتیک,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b22c5311-eaee-4bb4-9e1f-b101b68cafee/CarImage10514665_638204387760016348_thumb_900_600.jpg?width=270
+110,110,چانگان,13 ساعت پیش,2023,0,تیپ 3,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a9f2849a-62bd-4bb5-ae7a-03232faa7fd7/CarImage_638373714750155208_thumb_900_600.jpeg?width=270
+111,111,پراید,13 ساعت پیش,1398,15000,SE,تهران / صادقیه,252000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f7e64740-176d-404c-ab57-3b6f24790568/CarImage_638375462235259660_thumb_900_600.jpg?width=270
+112,112,کیا,13 ساعت پیش,1397,82000,2.0 لیتر آپشنال,تهران / آجودانیه,1380000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1f5473af-e031-421f-aa8e-54c4be77a3a4/CarImage_638375462052927737_thumb_900_600.jpg?width=270
+113,113,ساینا,13 ساعت پیش,1399,55000,دنده ای,شهریار,295000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7797255b-2d69-40d1-908a-cf223ce37f94/CarImage_638375460144300289_thumb_900_600.jpg?width=270
+114,114,برلیانس,13 ساعت پیش,1397,0,1.65 اتوماتیک,تبریز,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/713d8a48-0cac-4623-99e4-45bdec7fd45c/CarImage_638375458462237826_thumb_900_600.jpg?width=270
+115,115,برلیانس,13 ساعت پیش,1397,43000,1.65 اتوماتیک,تهران / چیتگر,715000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a40b1e2b-9571-4805-945b-4c7acd9fb288/CarImage_638375455594713605_thumb_900_600.jpeg?width=270
+116,116,شاهین,13 ساعت پیش,1402,0,CVT,تهران / سهروردی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a18ce5df-166a-4757-8fa7-5e06c71305a5/CarImage_638375454964641498_thumb_900_600.jpg?width=270
+117,117,پراید,13 ساعت پیش,1402,0,SE,تهران / میرداماد,272000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ecf2f0ea-09fd-42ad-8ece-f1e4a7da040c/CarImage_638375453146621531_thumb_900_600.jpg?width=270
+118,118,زوتی,13 ساعت پیش,1398,107000,1.6 لیتر اتوماتیک,تهران / جوادیه,640000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e4407432-68f0-4eff-8dea-32510a41dd45/CarImage_638375452309689938_thumb_900_600.jpg?width=270
+119,119,کیا,13 ساعت پیش,1397,85000,2.0 لیتر آپشنال,اصفهان / کشاورزی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2056df72-1dfe-4803-abd5-b7bf8d07b779/CarImage_638368851680862195_thumb_900_600.jpeg?width=270
+120,120,کوییک,13 ساعت پیش,1402,0,دنده ای,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3d34283a-9dd9-4de5-b475-d12a9bf1c5bc/CarImage10514624_638204381847458589_thumb_900_600.jpg?width=270
+121,121,پراید,13 ساعت پیش,1390,250000,SX,تهران / سلیمانی,145000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8906097e-0051-4124-9853-7e845d8e017a/CarImage_638375447931988697_thumb_900_600.jpg?width=270
+122,122,زوتی,13 ساعت پیش,1396,67000,1.6 لیتر دنده ای,لنجان / فولادشهر,520000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c1deb16f-4a73-4bfc-8ef7-0d35f11101dc/CarImage_638363361698109141_thumb_900_600.jpg?width=270
+123,123,کوییک,13 ساعت پیش,1401,50000,دنده ای,سمنان,310000000.0,/images/default-images/default-car-white.svg
+124,124,کیا,13 ساعت پیش,1397,69000,2.0 لیتر آپشنال,تهران / پاسداران,1470000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b73ff075-f53d-4cf1-8b3e-8b91906ed70b/CarImage_638371937360666430_thumb_900_600.jpeg?width=270
+125,125,ساینا,13 ساعت پیش,1402,32000,دنده ای بنزینی,ری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/337ec496-acca-47ce-b9eb-9b08300f7488/CarImage_638375442189346834_thumb_900_600.png?width=270
+126,126,کیا,13 ساعت پیش,1397,100000,2.0 لیتر آپشنال,شیراز / زرهی,1400000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3f452f3f-9d53-4e21-af1a-d9aeeea383be/CarImage_638375442141640933_thumb_900_600.jpeg?width=270
+127,127,پراید,13 ساعت پیش,1397,42500,SE,تهران / فاطمی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7b3817c8-41a7-4965-b496-6f892f2ec086/CarImage_638375453485729210_thumb_900_600.jpeg?width=270
+128,128,شاهین,13 ساعت پیش,1402,0,CVT,تهران / شهرک غرب، بلوار دادمان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eda755d2-e014-40b5-a1a9-1a34e9f0596d/CarImage_638375439561967262_thumb_900_600.jpeg?width=270
+129,129,کیا,13 ساعت پیش,1397,77000,2.0 لیتر آپشنال,اصفهان / خیابان شیخ بهایی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a610a3e0-0183-4de1-b77d-21bf68a9f889/CarImage_638323941535124010_thumb_900_600.jpeg?width=270
+130,130,شاهین,13 ساعت پیش,1402,0,دنده ای,تهران / سعادت آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8abd563e-139a-48fb-8994-38716edc9d15/CarImage10478753_638187189437791338_thumb_900_600.jpg?width=270
+131,131,شاهین,13 ساعت پیش,1402,0,دنده ای,تهران / شمس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4dcd8a0a-e54f-4981-be4a-1163e4caed1a/CarImage10582712_638244053776618747_thumb_900_600.jpg?width=270
+132,132,چانگان,14 ساعت پیش,1398,28000,اتوماتیک,تهران / مرزداران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5d27b115-6e0f-467d-bc27-ad859a1a42bf/CarImage_638306435158883847_thumb_900_600.jpg?width=270
+133,133,ساینا,14 ساعت پیش,1399,57000,دنده ای,سمنان,270000000.0,/images/default-images/default-car-white.svg
+134,134,شاهین,14 ساعت پیش,1402,0,دنده ای,تهران / شهر زیبا,590000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b3ac1aa2-2d38-46e3-8539-3e56589d1c47/CarImage_638375434477259684_thumb_900_600.jpg?width=270
+135,135,شاهین,14 ساعت پیش,1402,0,دنده ای,کاشان,,/images/default-images/default-car-white.svg
+136,136,ساینا,14 ساعت پیش,1402,0,دنده ای بنزینی,تهران / قیطریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4ce6ab9b-56f8-453f-9929-5f73c86882d2/CarImage_638300296362921868_thumb_900_600.jpeg?width=270
+137,137,تیبا,14 ساعت پیش,1400,63000,SX بنزینی,شهریار / اندیشه فاز 1,290000000.0,/images/default-images/default-car-white.svg
+138,138,کوییک,14 ساعت پیش,1402,0,دنده ای,تهران / قیطریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/027ba521-5e05-4a27-8eb9-7f33eca7b585/CarImage_638297191638307999_thumb_900_600.jpeg?width=270
+139,139,کوییک,14 ساعت پیش,1402,17000,دنده ای,شهریار,323500000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8beec715-96e4-4994-aa8c-9bceea548cc3/CarImage_638375431295155825_thumb_900_600.jpg?width=270
+140,140,چانگان,14 ساعت پیش,2023,0,تیپ 3,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/79293cf9-0422-42cd-b840-089b5ff2f572/CarImage_638353905951899488_thumb_900_600.jpeg?width=270
+141,141,کوییک,14 ساعت پیش,1399,41300,دنده ای,کرج / عظیمیه,290000000.0,/images/default-images/default-car-white.svg
+142,142,کیا,14 ساعت پیش,1395,60000,2.0 لیتر ساده,تهران / شریعتی  بالاتر از مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eddcfd21-8b25-4120-8d6d-b50a43d298c4/CarImage_638374574288949264_thumb_900_600.jpeg?width=270
+143,143,برلیانس,14 ساعت پیش,1395,90000,1.5 اتوماتیک,تهران / افسریه,520000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/219ce7d8-18f8-4e4a-b99f-e27b6cc4b486/CarImage_638375418882140774_thumb_900_600.jpeg?width=270
+144,144,پراید,14 ساعت پیش,1397,91000,SE,رباط کریم / گلستان,230000000.0,/images/default-images/default-car-white.svg
+145,145,برلیانس,14 ساعت پیش,1397,100000,1.65 اتوماتیک,کرج / آزادگان,690000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4121566a-6600-4ff7-b553-ddd7b36fa876/CarImage_638375417144324022_thumb_900_600.jpg?width=270
+146,146,کوییک,14 ساعت پیش,1402,0,دنده ای,تهران / صادقیه,349000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/78b92150-8116-4618-8ac4-cb68348746d1/CarImage_638375415023254028_thumb_900_600.jpg?width=270
+147,147,کوییک,14 ساعت پیش,1400,40000,دنده ای,تهران / استخر,300000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/929e9195-8f14-4d78-8103-b0586be944e4/CarImage_638375414316367015_thumb_900_600.jpg?width=270
+148,148,شاهین,14 ساعت پیش,1402,0,دنده ای,تهران / آزادی,580000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a1e65cc7-a14c-4f72-aad1-7e2942475eb5/CarImage_638375414181736033_thumb_900_600.jpg?width=270
+149,149,کوییک,14 ساعت پیش,1401,27000,دنده ای,تهران / پیروزی,320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ff6025d9-d129-4786-8c6d-d1f558968a6c/CarImage_638375413187534141_thumb_900_600.jpg?width=270
+150,150,شاهین,14 ساعت پیش,1402,0,دنده ای,تهران / خیابان توحید,,/images/default-images/default-car-white.svg
+151,151,ساینا,14 ساعت پیش,1402,0,دنده ای بنزینی,تهران / خیابان توحید,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ce554b01-f599-4623-9ecc-0cf670952269/CarImage10499631_638196629207319505_thumb_900_600.jpg?width=270
+152,152,کیا,14 ساعت پیش,1397,50000,2.0 لیتر آپشنال,تهران / تهرانپارس غربی,1490000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/195bf053-e4ae-4536-9d8d-851937abdc20/CarImage_638375407295913531_thumb_900_600.jpeg?width=270
+153,153,کوییک,14 ساعت پیش,1402,0,دنده ای,تهران / شهران شمالی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e02bc7de-db2c-4641-959d-0009961b2912/CarImage_638375406373740493_thumb_900_600.jpeg?width=270
+154,154,پراید,14 ساعت پیش,1398,42000,SE,ساری / لسانی,263000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/79f9a8af-9355-4d13-b25b-8982ed9d7c87/CarImage_638375406108340033_thumb_900_600.jpg?width=270
+155,155,ساینا,14 ساعت پیش,1402,0,دنده ای گازسوز,تهران / صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/362b5fa1-667f-46f4-b5a3-8ce67d7adb4c/CarImage_638375400876427658_thumb_900_600.jpg?width=270
+156,156,کوییک,15 ساعت پیش,1402,0,دنده ای,تهران / آزادی,350000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0c621c69-6054-4b72-9acf-3f9d5b45ce2b/CarImage_638375397199207757_thumb_900_600.jpg?width=270
+157,157,شاهین,15 ساعت پیش,1402,0,CVT,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8dd96daf-6237-4385-8e0f-c89e7f71d299/CarImage_638371994276583937_thumb_900_600.jpg?width=270
+158,158,سیتروئن,15 ساعت پیش,1397,50000,اتوماتیک,تهران / مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ed952af0-ed7a-4736-be04-0341741eb995/CarImage_638289015956856488_thumb_900_600.jpg?width=270
+159,159,شاهین,15 ساعت پیش,1402,0,دنده ای,تهران / آزادی,580000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ae24a1c0-7a2b-452b-a241-673bc36a42a0/CarImage_638375395204404932_thumb_900_600.jpg?width=270
+160,160,شاهین,15 ساعت پیش,1402,0,دنده ای,اصفهان / خانه اصفهان,595000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f54aca26-3297-479b-b674-593bfe7840f6/CarImage_638371584070996875_thumb_900_600.jpg?width=270
+161,161,چانگان,15 ساعت پیش,2023,0,تیپ 3,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/900a3e49-ef69-4a51-9bfa-9510ea2b6254/CarImage_638334906612443815_thumb_900_600.jpg?width=270
+162,162,کوییک,15 ساعت پیش,1401,0,دنده ای,تهران / ازگل,318000000.0,/images/default-images/default-car-white.svg
+163,163,کوییک,15 ساعت پیش,1402,0,دنده ای,تهران / آزادی,353000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/68aaaa0d-ef59-45a2-85d4-f3f0fe71bf1e/CarImage_638375393328612870_thumb_900_600.jpg?width=270
+164,164,کوییک,15 ساعت پیش,1402,0,اتوماتیک,تهران / آزادی,445000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d3d97c6e-49c3-4e34-b82b-63b2fd98544c/CarImage_638375392822426775_thumb_900_600.jpg?width=270
+165,165,چانگان,15 ساعت پیش,1397,160000,اتوماتیک,تهران / پونک,795000000.0,/images/default-images/default-car-white.svg
+166,166,پراید,15 ساعت پیش,1402,0,SE,تهران / آزادی,272000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9bf9c597-1401-4152-b0e7-cb726fdeb7c1/CarImage_638375391603130820_thumb_900_600.jpg?width=270
+167,167,کیا,15 ساعت پیش,1396,96000,2.0 لیتر آپشنال,تهران / کامرانیه جنوبی,1330000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/626c64ba-357f-4488-925f-fdf128b37082/CarImage_638360837816126438_thumb_900_600.jpg?width=270
+168,168,پراید,15 ساعت پیش,1396,120000,SE,آمل,215000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7a7682a1-c10c-469a-a2d0-bfaeacf1e545/CarImage_638373139080286991_thumb_900_600.jpg?width=270
+169,169,پراید,15 ساعت پیش,1398,40000,SE,تهران / مجیدیه,,/images/default-images/default-car-white.svg
+170,170,ساینا,15 ساعت پیش,1402,0,دنده ای بنزینی,تهران / رسالت,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0235ffbb-7449-474f-88e2-c90f82fe437e/CarImage_638375385225052535_thumb_900_600.jpeg?width=270
+171,171,پراید,15 ساعت پیش,1390,279000,SX,شهریار / شهر جدید اندیشه,165000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/35228e10-e119-4e85-a726-d70de1c24f79/CarImage_638375384802380269_thumb_900_600.jpg?width=270
+172,172,کوییک,15 ساعت پیش,1402,0,دنده ای,تهران / صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1f8ea28b-a28d-4b64-847f-da65e8bb26cc/CarImage_638375380185336628_thumb_900_600.jpg?width=270
+173,173,کوییک,15 ساعت پیش,1402,0,دنده ای,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c2b76138-2d10-44d3-961c-09f881696103/CarImage10579791_638241700570877450_thumb_900_600.jpeg?width=270
+174,174,کوییک,15 ساعت پیش,1402,0,دنده ای,تهران / صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4bd79c8c-0f5d-4e1f-87f4-2ed7b8f65669/CarImage_638375379052911477_thumb_900_600.jpg?width=270
+175,175,کوییک,15 ساعت پیش,1402,0,دنده ای,تهران / صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fed5e117-c0d1-4241-a7c3-19e6929ccc91/CarImage_638375378542022895_thumb_900_600.jpg?width=270
+176,176,پراید,15 ساعت پیش,1388,180000,دنده ای,اصفهان / خیابان هشت بهشت غربی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2f07e4cf-8cb3-429f-9076-59925eb08512/CarImage10609915_638257297867204718_thumb_900_600.jpeg?width=270
+177,177,چانگان,15 ساعت پیش,2023,0,تیپ 3,اصفهان / خیابان هشت بهشت غربی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6ea6e262-b6d9-468d-a65f-7b3f5f09417e/CarImage_638360995070886390_thumb_900_600.jpeg?width=270
+178,178,چانگان,15 ساعت پیش,2023,0,تیپ 3,اصفهان / خیابان هشت بهشت غربی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c82794f8-0cdd-4332-b80f-cc6bf9d15739/CarImage_638360996214892316_thumb_900_600.jpeg?width=270
+179,179,کوییک,15 ساعت پیش,1402,0,دنده ای,اصفهان / دروازه شیراز,355000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a49887ad-3b4f-4bdd-a956-baf4d4855b2b/CarImage_638375369891473132_thumb_900_600.jpg?width=270
+180,180,پراید,16 ساعت پیش,1385,237000,دنده ای,شهریار / فردوسیه,128000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5eb61cab-7209-4b02-9751-0a0f1b627134/CarImage_638375849316471892_thumb_900_600.jpg?width=270
+181,181,برلیانس,16 ساعت پیش,1400,0,1.65 دنده ای,اصفهان / دولت‌آباد,800000000.0,/images/default-images/default-car-white.svg
+182,182,کیا,16 ساعت پیش,1396,78000,2.0 لیتر آپشنال,اردبیل,1270000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fe309a80-23d0-41b4-8726-338e62fdb8d7/CarImage_638371099299757636_thumb_900_600.jpg?width=270
+183,183,شاهین,16 ساعت پیش,1402,0,CVT,قم / آزادگان,,/images/default-images/default-car-white.svg
+184,184,سیتروئن,16 ساعت پیش,1386,0,2.0 لیتر SX,کرمانشاه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e055b5a0-77c2-4b2a-ac15-48d713fcbe4c/CarImage_638366840450941758_thumb_900_600.jpg?width=270
+185,185,تیبا,16 ساعت پیش,1398,45000,EX,تهران / فردوسی,282000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b8f3f0f4-6c4d-4cf7-89ce-22cb879d592b/CarImage_638367722132787131_thumb_900_600.jpg?width=270
+186,186,پراید,16 ساعت پیش,1397,77000,SE,تهران / سعادت‌آباد,225000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d75dc8ca-0fd4-416e-9faa-844bfc4eed40/CarImage_638357551596129431_thumb_900_600.jpg?width=270
+187,187,پراید,16 ساعت پیش,1380,70000,دنده ای,تهران / آجودانیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/983b3365-f7d0-492e-a3d6-a23eaa9e0a5c/CarImage_638363494553346818_thumb_900_600.jpeg?width=270
+188,188,پراید,16 ساعت پیش,1386,200000,دنده ای,کاشان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/39e4eb5a-3b86-4055-837e-f227896e691d/CarImage_638362427227409492_thumb_900_600.jpeg?width=270
+189,189,سیتروئن,16 ساعت پیش,1387,367000,2.0 لیتر SX,کرج / آزادگان,460000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2716dfa1-1dcc-4eaf-a51b-21b314c610f9/CarImage10607193_638256200344262634_thumb_900_600.jpg?width=270
+190,190,پراید,16 ساعت پیش,1386,283000,ساده,تهران / باغ فیض,150000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/983e99f7-e673-44f3-b22a-695ca981c6de/CarImage10614678_638260947027224487_thumb_900_600.jpg?width=270
+191,191,پراید,16 ساعت پیش,1396,990000,SE,خدابنده / قیدار,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cc031e2f-3db4-4cf0-a055-8467a8847d54/CarImage_638270889827455376_thumb_900_600.jpg?width=270
+192,192,پراید,16 ساعت پیش,1392,138000,EX,اصفهان / شیخ صدوق,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/210d8239-74ed-428d-b92a-b87d566abd90/CarImage10572282_638238214162463288_thumb_900_600.jpg?width=270
+193,193,کوییک,16 ساعت پیش,1401,28000,اتوماتیک,کرج / جهان‌شهر,399000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3e9e24cd-8333-4c87-b305-2926ffd15d1f/CarImage10578276_638240920817744882_thumb_900_600.jpg?width=270
+194,194,تیبا,16 ساعت پیش,1401,0,SX بنزینی,تهران / منیریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b716df1e-da71-4de1-9118-cc9b47ccf688/CarImage10542321_638244434290184017_thumb_900_600.jpeg?width=270
+195,195,سیتروئن,16 ساعت پیش,1386,130000,2.0 لیتر SX,لاهیجان / لاهیجان,500000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/050894c9-40c7-4a01-b191-233810132261/CarImage_638320266233122951_thumb_900_600.jpg?width=270
+196,196,شاهین,16 ساعت پیش,1402,0,دنده ای,تهران / آرژانتین,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/efabbf90-1a41-4017-90f2-62e8f302bb37/CarImage_638323671946625693_thumb_900_600.jpg?width=270
+197,197,پراید,16 ساعت پیش,1394,250000,SE,رباط کریم,170000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6815d992-67f9-4528-a403-76a552fe943a/CarImage_638318564393388859_thumb_900_600.jpg?width=270
+198,198,پراید,16 ساعت پیش,1385,275000,دنده ای,کرج / مهرشهر - فاز 2,,/images/default-images/default-car-white.svg
+199,199,پراید,16 ساعت پیش,1382,326000,دنده ای,ملارد,115000000.0,/images/default-images/default-car-white.svg
+200,200,کیا,16 ساعت پیش,1389,154000,دنده ای,تهران / قیطریه,315000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6db020c0-1ce8-4dce-8d48-150b48ed26f6/CarImage_638309783020225748_thumb_900_600.jpg?width=270
+201,201,تیبا,16 ساعت پیش,1395,220000,EX,هشتگرد,240000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/194970be-3aef-4a0f-9da8-fb3fc7976864/CarImage_638329243787002097_thumb_900_600.jpg?width=270
+202,202,سیتروئن,16 ساعت پیش,1356,0,دنده ای,تهران / قلهک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1e439078-8477-4ec9-b9c3-152bc87b282f/CarImage_638330812796765648_thumb_900_600.jpeg?width=270
+203,203,برلیانس,16 ساعت پیش,1397,94000,1.65 اتوماتیک,تهران / ونک,690000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d8de0996-0586-406f-b08b-05e998d3815d/CarImage_638350378583721225_thumb_900_600.jpg?width=270
+204,204,پراید,16 ساعت پیش,1389,18000,ساده,مشهد / احمدآباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9a12dd3d-f456-4558-9757-eeeedd9a62d1/CarImage_638367666982240895_thumb_900_600.jpeg?width=270
+205,205,کیا,16 ساعت پیش,1398,94000,2.0 لیتر آپشنال,تهران / رسالت,1540000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/71dc3f24-4ee0-42b3-b4b3-99d9164d4d7b/CarImage_638356709442322810_thumb_900_600.jpg?width=270
+206,206,پراید,16 ساعت پیش,1395,70000,SE,یزد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/221724a8-403e-4ed0-95e3-50b7b6eba253/CarImage_638375359530594715_thumb_900_600.jpg?width=270
+207,207,سیتروئن,16 ساعت پیش,1398,39000,اتوماتیک,تهران / هفت تیر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f866be4b-9b5a-4401-855b-d03a036f77a6/CarImage_638365079310913220_thumb_900_600.jpeg?width=270
+208,208,سیتروئن,16 ساعت پیش,1384,300000,2.0 لیتر X,تنکابن,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0618dfdb-20b5-474b-91cd-16ee4ab3b012/CarImage_638375357821812347_thumb_900_600.jpg?width=270
+209,209,کوییک,16 ساعت پیش,1402,0,دنده ای,شیراز / زرهی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5a534bfb-f7f4-47c8-b722-349de15f4e83/CarImage_638375341752161222_thumb_900_600.jpeg?width=270
+210,210,ساینا,17 ساعت پیش,1400,33400,دنده ای بنزینی,کرج / مهرشهر - فاز 4,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eae15039-a789-45fd-815d-614f4aeb433c/CarImage_638375326212820165_thumb_900_600.jpg?width=270
+211,211,تیبا,17 ساعت پیش,1400,0,SX بنزینی,گرمسار,,/images/default-images/default-car-white.svg
+212,212,کیا,21 ساعت پیش,1396,680000,2.0 لیتر آپشنال,تهران / هروی,1350000000.0,/images/default-images/default-car-white.svg
+213,213,پراید,22 ساعت پیش,1396,67000,SE,ساری,252000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/231a4593-0fce-453f-8443-b279196f8a8e/CarImage_638375117585124341_thumb_900_600.jpg?width=270
+214,214,تیبا,23 ساعت پیش,1396,168000,EX,اصفهان / آبشار,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/02e1a76c-994e-4cc3-9a1f-ab07c1312551/CarImage_638375109050556098_thumb_900_600.jpg?width=270
+215,215,شاهین,23 ساعت پیش,1400,50000,دنده ای,اصفهان / خانه اصفهان,517000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9597ea01-85f3-4e6d-8c53-12bdf4b9e9dc/CarImage_638375393975286494_thumb_900_600.jpg?width=270
+216,216,پراید,دیروز,1389,395000,SL,اراک,140000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/20701688-7bab-4338-a271-acdd571a8b27/CarImage_638375072265442532_thumb_900_600.jpg?width=270
+217,217,شاهین,دیروز,1401,20000,دنده ای,قم / توحید,540000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/781e2609-37b1-4ad7-8369-f1cb6da1721f/CarImage_638375066249796027_thumb_900_600.jpg?width=270
+218,218,پراید,دیروز,1378,0,دنده ای,تاکستان / دانسفهان,,/images/default-images/default-car-white.svg
+219,219,کیا,دیروز,1395,74500,2.0 لیتر ساده,اصفهان / باغ دریاچه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9709b911-05ac-48d5-8388-f6bacd1aac5f/CarImage_638375054074701764_thumb_900_600.jpeg?width=270
+220,220,پراید,دیروز,1398,136000,SE,تهران / تولید دارو,230000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/99981f2c-64c2-4e18-bbe0-f21ed958070d/CarImage_638375053959035016_thumb_900_600.jpg?width=270
+221,221,پراید,دیروز,1382,42000,دنده ای,تهران / پل چوبی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e37fcc34-c5eb-4bcf-be45-b7a4baa3c089/CarImage_638375048008037953_thumb_900_600.jpeg?width=270
+222,222,کیا,دیروز,1397,100000,2.0 لیتر آپشنال,بندر ماهشهر,1300000000.0,/images/default-images/default-car-white.svg
+223,223,کوییک,دیروز,1402,0,دنده ای,بوئین زهرا,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d25785be-3309-484c-9dae-9af5dd1fd3cc/CarImage_638375032686882814_thumb_900_600.jpg?width=270
+224,224,ساینا,دیروز,1400,80000,دنده ای,تهران / خواجه نظام الدین,305000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f4b236f0-a302-463f-9b89-4a822c368a69/CarImage_638375012810055607_thumb_900_600.jpg?width=270
+225,225,پراید,دیروز,1384,340000,دنده ای,ارومیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/359e98d3-45b2-4984-8ef3-3af2a39de9cf/CarImage_638375012086102613_thumb_900_600.jpg?width=270
+226,226,پراید,دیروز,1385,550000,دنده ای,اسلام شهر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f85dd012-68dd-4dae-9510-bdad89fcc527/CarImage_638375001291074774_thumb_900_600.jpg?width=270
+227,227,کوییک,دیروز,1402,0,دنده ای,اصفهان / بلوار آتشگاه,,/images/default-images/default-car-white.svg
+228,228,برلیانس,دیروز,1397,70000,1.65 اتوماتیک,رامسر,725000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8dc87b23-9e85-4342-88dc-3cbd68c4b0ad/CarImage_638374996415521999_thumb_900_600.jpeg?width=270
+229,229,کوییک,دیروز,1402,0,دنده ای,اصفهان / شهرک ولی عصر,360000000.0,/images/default-images/default-car-white.svg
+230,230,کیا,دیروز,1395,31000,2.0 لیتر ساده,تهران / ونک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e9441b5a-2672-4a89-930f-c27bea4d2971/CarImage_638293430818956256_thumb_900_600.jpg?width=270
+231,231,کوییک,دیروز,1401,14000,دنده ای,خدابنده,328000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a8f75099-7f7b-48c3-a94d-c0c901fa27db/CarImage_638374980200132337_thumb_900_600.jpg?width=270
+232,232,کوییک,دیروز,1400,330000,دنده ای,تهران / اقدسیه,298000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f1cbc908-4a76-49f0-96e9-ecd8ee75d6c7/CarImage_638374978032202051_thumb_900_600.jpg?width=270
+233,233,ساینا,دیروز,1400,55000,دنده ای,کرج / شهرک جهان‌نما,315000000.0,/images/default-images/default-car-white.svg
+234,234,کوییک,دیروز,1398,90000,دنده ای,تهران / صادقیه,280000000.0,/images/default-images/default-car-white.svg
+235,235,چانگان,دیروز,1397,95000,اتوماتیک,تهران / بهار,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2146b820-4a91-4e03-9c1e-b853948f8a46/CarImage_638374972031600596_thumb_900_600.jpeg?width=270
+236,236,پراید,دیروز,1387,700000,دنده ای,لنجان,,/images/default-images/default-car-white.svg
+237,237,سیتروئن,دیروز,1389,233000,2.0 لیتر X,کرج / جهان‌شهر,,/images/default-images/default-car-white.svg
+238,238,کوییک,دیروز,1401,0,دنده ای,تهران / پاسداران,338000000.0,/images/default-images/default-car-white.svg
+239,239,شاهین,دیروز,1402,0,دنده ای,تهران / سعادت‌آباد,605000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3bd277f8-65d1-4567-b884-bf60d0a864f7/CarImage_638374944946757763_thumb_900_600.jpg?width=270
+240,240,پراید,دیروز,1394,116000,SE,قم / سالاریه,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/da75f529-6721-47f1-8cf6-e98878f9d9f5/CarImage_638374942912815000_thumb_900_600.jpg?width=270
+241,241,پراید,دیروز,1393,167000,SE,تهران / آرارات,190000000.0,/images/default-images/default-car-white.svg
+242,242,پراید,دیروز,1398,0,SE,تهران / تهرانپارس غربی,,/images/default-images/default-car-white.svg
+243,243,پراید,دیروز,1387,65000,ساده,تهران / نیرو هوایی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bf0268eb-469e-4f65-8b94-d8053b912573/CarImage_638374926972182935_thumb_900_600.jpg?width=270
+244,244,برلیانس,دیروز,1396,110000,1.5 دنده ای,ملکان,,/images/default-images/default-car-white.svg
+245,245,تیبا,دیروز,1393,168000,SX بنزینی,کرج / گلشهر,210000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e3cf0d9e-13e2-437e-9f03-b9b98655d628/CarImage_638374913809702152_thumb_900_600.jpg?width=270
+246,246,پراید,دیروز,1396,140000,SE,تهران / تهرانپارس شرقی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e1d13c11-ccc8-4679-a46d-67955a7c5fc3/CarImage_638374911563436196_thumb_900_600.jpg?width=270
+247,247,پراید,دیروز,1389,148000,دنده ای,تهران / فلاح,168000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/225f7542-aed2-4b52-82a2-d7441d3f4872/CarImage_638374908288005632_thumb_900_600.jpg?width=270
+248,248,پراید,دیروز,1383,350000,دنده ای,تهران / اکباتان,95000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f14a22bd-ad6d-48ed-b96d-b394f393333c/CarImage_638374905338735826_thumb_900_600.jpg?width=270
+249,249,تیبا,دیروز,1398,49500,EX,تهران / رسالت,274000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/555d7362-b635-4525-9e4e-c3f5485d749f/CarImage_638374900835791493_thumb_900_600.jpg?width=270
+250,250,پراید,دیروز,1391,360000,SL,رباط کریم,,/images/default-images/default-car-white.svg
+251,251,کوییک,دیروز,1402,0,دنده ای,تهران / نیرو هوایی,340000000.0,/images/default-images/default-car-white.svg
+252,252,پراید,دیروز,1396,150000,SE,تهران / آبشار,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/89f42c65-435b-4a2a-ab79-e262b30de40c/CarImage_638374896735774410_thumb_900_600.jpg?width=270
+253,253,کوییک,دیروز,1401,35000,دنده ای,ارومیه,320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c303e28c-aa3f-4dba-876e-b2432ac161da/CarImage_638374893176385016_thumb_900_600.jpg?width=270
+254,254,پراید,دیروز,1399,37000,SE,هشتگرد,265000000.0,/images/default-images/default-car-white.svg
+255,255,برلیانس,دیروز,1397,100000,1.65 اتوماتیک,لنجان,665000000.0,/images/default-images/default-car-white.svg
+256,256,تیبا,دیروز,1397,78000,SX بنزینی,ملارد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0e441fc0-0c5e-418d-a144-cf4f1601a7aa/CarImage_638375787437188499_thumb_900_600.jpg?width=270
+257,257,پراید,دیروز,1402,0,SE,تهران / پیروزی,271500000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/60ca39a9-4e46-4a36-8de8-9254958f29d0/CarImage_638374869742870966_thumb_900_600.jpg?width=270
+258,258,پراید,دیروز,1390,180000,SX,اصفهان / اشراق,210000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d6fe8c8c-0b32-4ca1-8d09-37002f5aa04a/CarImage_638374861886407441_thumb_900_600.jpg?width=270
+259,259,برلیانس,دیروز,1397,72000,1.65 اتوماتیک,آستارا,700000000.0,/images/default-images/default-car-white.svg
+260,260,پراید,دیروز,1399,0,SE,تهران / تهرانپارس شرقی,250000000.0,/images/default-images/default-car-white.svg
+261,261,پراید,دیروز,1382,40000,دنده ای,تهران / امام حسین(ع),,/images/default-images/default-car-white.svg
+262,262,ساینا,دیروز,1401,21000,دنده ای,کرج / مهرشهر - فاز 2,315000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/149bbb67-6d8c-422a-a556-8cadd7ed7b6e/CarImage_638374853451793640_thumb_900_600.jpg?width=270
+263,263,کوییک,دیروز,1401,26000,دنده ای,تهران / تهران‌نو,306000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/77f21c06-23fa-4ea0-8e37-a5f839c93601/CarImage_638374852812685427_thumb_900_600.jpeg?width=270
+264,264,چانگان,دیروز,1395,180000,اتوماتیک,آمل / آمل,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cb18adbe-0c76-4100-bed0-48001c39e333/CarImage_638374847354334511_thumb_900_600.jpg?width=270
+265,265,ساینا,دیروز,1400,49000,دنده ای,شهرکرد,305000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6023101f-2572-4cf8-be9e-bcd3955abab3/CarImage_638374845499144174_thumb_900_600.jpg?width=270
+266,266,پراید,دیروز,1398,78000,SE,تهران / نازی‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8e38bbd7-3113-4e8a-b195-0748d136e487/CarImage_638374842165459137_thumb_900_600.jpg?width=270
+267,267,پراید,دیروز,1394,143000,SE,تهران / آبشار,215000000.0,/images/default-images/default-car-white.svg
+268,268,پراید,دیروز,1392,175000,SE,تهران / سلسبیل,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5190a585-6a49-4b2c-9ce9-220a1d5cf943/CarImage_638374835291340951_thumb_900_600.jpg?width=270
+269,269,کیا,دیروز,1385,400000,دنده ای,تنکابن,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4e3f059a-ec5c-4f4a-9407-98ffb73673e3/CarImage_638374832195840472_thumb_900_600.jpg?width=270
+270,270,کوییک,دیروز,1401,16500,دنده ای,تهران / دهکده المپیک,322000000.0,/images/default-images/default-car-white.svg
+271,271,برلیانس,دیروز,1397,104000,1.5 دنده ای,تهران / باغ فیض,536000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8e5400a1-16f0-4ed8-80be-3e5fc9da1d86/CarImage_638374818351365092_thumb_900_600.jpg?width=270
+272,272,پراید,دیروز,1397,75000,SE,کرج / دولت‌آباد,227000000.0,/images/default-images/default-car-white.svg
+273,273,تیبا,دیروز,1395,180000,SX بنزینی,ورامین,243000000.0,/images/default-images/default-car-white.svg
+274,274,چانگان,دیروز,2023,0,تیپ 3,اصفهان / مهرآباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6d44fb11-20b6-4268-b434-6dc546908618/CarImage_638368100964128189_thumb_900_600.jpg?width=270
+275,275,چانگان,دیروز,2023,0,تیپ 3,تهران / آزادی,,/images/default-images/default-car-white.svg
+276,276,برلیانس,دیروز,1395,80000,1.5 اتوماتیک,تهران / ظفر,570000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dbaac6ce-1241-4cb0-8481-e57cd8be6133/CarImage_638374784451248426_thumb_900_600.jpeg?width=270
+277,277,تیبا,دیروز,1395,58000,SX بنزینی,کرج / آزادگان,240000000.0,/images/default-images/default-car-white.svg
+278,278,تیبا,دیروز,1396,220000,SX بنزینی,تهران / عباس‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ffe793ab-e72b-41e4-a509-6fcf2668c2c0/CarImage_638374778286284009_thumb_900_600.jpg?width=270
+279,279,تیبا,دیروز,1396,112000,EX,لنگرود / لنگرود,255000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0f328893-663f-4051-a8f0-1583f9386bd1/CarImage_638374955110179660_thumb_900_600.jpg?width=270
+280,280,ساینا,دیروز,1402,0,دنده ای بنزینی,تهران / بلوار استقلال,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fb9766b8-d72a-4878-bcd4-5c8af6a4a10b/CarImage_638374770818721130_thumb_900_600.jpeg?width=270
+281,281,پراید,دیروز,1402,0,SE,تهران / شهرآرا,272000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1cfa974f-cf3f-4376-8c3c-04a4e1efb764/CarImage_638375519834790508_thumb_900_600.jpg?width=270
+282,282,سیتروئن,دیروز,1398,23000,اتوماتیک,تهران / سعادت‌آباد,1780000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9784e38a-2fea-45b8-b7ad-bdfab7a51f95/CarImage_638374758082513535_thumb_900_600.jpeg?width=270
+283,283,پراید,دیروز,1395,74000,SE,تهران / تهرانپارس شرقی,232000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9d6f68f1-9197-45f3-a701-419e09ceae34/CarImage_638374753750283405_thumb_900_600.jpg?width=270
+284,284,کوییک,دیروز,1402,0,دنده ای,قدس,349000000.0,/images/default-images/default-car-white.svg
+285,285,کوییک,دیروز,1402,0,اتوماتیک,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dce70ded-da57-4150-9910-0d69b53036f7/CarImage10514699_638204394699351737_thumb_900_600.jpg?width=270
+286,286,کوییک,دیروز,1401,0,دنده ای,تهران / اختیاریه,,/images/default-images/default-car-white.svg
+287,287,شاهین,دیروز,1402,0,دنده ای,تهران / بلوار استقلال,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f4edbd9a-4754-4b1a-bafa-02416566a938/CarImage_638374738658621074_thumb_900_600.jpeg?width=270
+288,288,کوییک,دیروز,1402,0,دنده ای,تهران / بلوار استقلال,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b71b49c1-5715-4a3d-8e7f-2ee0a77d10dd/CarImage_638374737696595300_thumb_900_600.jpeg?width=270
+289,289,تیبا,دیروز,1401,0,EX,شهریار,328000000.0,/images/default-images/default-car-white.svg
+290,290,سیتروئن,دیروز,1397,43000,اتوماتیک,اراک,1750000000.0,/images/default-images/default-car-white.svg
+291,291,کیا,دیروز,1393,123000,2.0 لیتر ساده,تهران / سعادت‌آباد,920000000.0,/images/default-images/default-car-white.svg
+292,292,پراید,دیروز,1383,222000,دنده ای,تهران / مهرآباد جنوبی,92000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4911a781-c9c7-4191-ae47-4e6d75b2ddaa/CarImage_638374731346961814_thumb_900_600.jpg?width=270
+293,293,پراید,دیروز,1387,345000,دنده ای,رباط کریم / پرند,159000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dacd28ea-8b69-40cb-aaa0-01505853f491/CarImage_638374725147645030_thumb_900_600.jpg?width=270
+294,294,کوییک,دیروز,1402,0,دنده ای,تهران / تهرانپارس غربی,345000000.0,/images/default-images/default-car-white.svg
+295,295,پراید,دیروز,1389,480000,SX,کرج / کوی کارمندان جنوبی,130000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a8f29543-9e05-4360-9fcd-7a2f8d2c09b9/CarImage_638374724666606803_thumb_900_600.jpg?width=270
+296,296,پراید,دیروز,1400,0,SE,تهران / بهارستان,255000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c395d4d5-e302-4b05-9d5a-94c4bd13969d/CarImage_638374720783139080_thumb_900_600.jpg?width=270
+297,297,پراید,دیروز,1383,500000,دنده ای,زرین شهر,85000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2aabc754-cca3-4c95-9abd-ca693aab4867/CarImage_638374720604710171_thumb_900_600.jpg?width=270
+298,298,کوییک,دیروز,1402,0,دنده ای,تهران / تهرانپارس غربی,345000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6b5ed6a0-3f81-4efe-8875-2c9a8b6f8c2e/CarImage_638374719971263131_thumb_900_600.jpg?width=270
+299,299,پراید,دیروز,1394,289000,SE,تهران / شهرک ولیعصر,186000000.0,/images/default-images/default-car-white.svg
+300,300,پراید,دیروز,1393,250000,SE,محمود آباد,174000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6388316f-a9d7-4575-bb39-28226f70fa75/CarImage_638367070687215092_thumb_900_600.jpg?width=270
+301,301,کیا,دیروز,1395,38500,2.0 لیتر ساده,تهران / پاسداران,,/images/default-images/default-car-white.svg
+302,302,کیا,دیروز,1393,47000,1.6 لیتر ساده,تهران / کامرانیه جنوبی,850000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/725ebc60-676e-477c-a8d4-b0bb04c7e1ee/CarImage_638372882416709791_thumb_900_600.jpeg?width=270
+303,303,کوییک,دیروز,1402,0,اتوماتیک,تهران / پاسداران,438000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8ad57261-d9e2-45c4-8b81-b20471122182/CarImage_638374707884523104_thumb_900_600.jpeg?width=270
+304,304,تیبا,دیروز,1399,54000,پلاس,قدس / شهر قدس,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/deec3fbc-42dc-4304-a33e-e40da60f618f/CarImage_638374706425294622_thumb_900_600.jpg?width=270
+305,305,کیا,دیروز,1395,95000,2.0 لیتر ساده,تهران / پاسداران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/38e9ed19-5bdd-4959-a988-793b80ddf7f9/CarImage_638374703743484233_thumb_900_600.jpeg?width=270
+306,306,پراید,دیروز,1395,240000,SE,اصفهان / تالار,,/images/default-images/default-car-white.svg
+307,307,کوییک,دیروز,1399,36300,دنده ای,تهران / چیتگر,295000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b210ab6f-5aaa-4112-9de2-00a1a7739109/CarImage_638374698068968086_thumb_900_600.jpg?width=270
+308,308,سیتروئن,دیروز,1381,263000,1.8 لیتر سوپرلوکس,تهران / میرداماد,235000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4d0c9520-0d74-4b7d-9a07-60e75cf7e6dc/CarImage_638374695675714171_thumb_900_600.jpeg?width=270
+309,309,پراید,دیروز,1393,168000,SE,تهران / اسفندیاری,,/images/default-images/default-car-white.svg
+310,310,سیتروئن,دیروز,1397,0,اتوماتیک,تهران /  پایین تر از پل رومی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c05efdd3-a0b5-49d2-8c02-db7a8b4ee281/CarImage_638371149400512592_thumb_900_600.jpeg?width=270
+311,311,چانگان,دیروز,2023,0,تیپ 3,تهران /  پایین تر از پل رومی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/078e4f16-8bb8-4283-97d9-92e4537fc6cb/CarImage_638347002500133997_thumb_900_600.jpeg?width=270
+312,312,سیتروئن,دیروز,1398,0,اتوماتیک,سنندج,2000000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0e284297-360e-4013-8579-9cea0c5c8e38/CarImage_638374689538743452_thumb_900_600.jpg?width=270
+313,313,پراید,دیروز,1402,0,SE,تهران / بلوار استقلال,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2c2f830b-8819-4f5e-baae-e3b6f26fe2bf/CarImage_638374689437349500_thumb_900_600.jpeg?width=270
+314,314,پراید,دیروز,1395,170000,SE,اردبیل,200000000.0,/images/default-images/default-car-white.svg
+315,315,کیا,دیروز,1385,350000,دنده ای,تهران / یوسف‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ad7f5107-e3eb-484e-b5ae-f3413ff37153/CarImage_638374687030890368_thumb_900_600.jpeg?width=270
+316,316,برلیانس,دیروز,1397,120000,1.65 اتوماتیک,هشتگرد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dd383346-cdb4-4ecb-9e5f-a837749dc24a/CarImage_638374686748895862_thumb_900_600.jpg?width=270
+317,317,کوییک,دیروز,1401,11000,دنده ای,تهران / پاسداران,329000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6b772518-80b4-4c0d-a29f-2cedb3b4c0f9/CarImage_638373019355946184_thumb_900_600.jpeg?width=270
+318,318,پراید,دیروز,1394,185000,SE,تهران / پاسداران,215000000.0,/images/default-images/default-car-white.svg
+319,319,شاهین,دیروز,1400,22400,دنده ای,تهران / پیروزی,510000000.0,/images/default-images/default-car-white.svg
+320,320,کوییک,دیروز,1402,0,اتوماتیک,اراک,440000000.0,/images/default-images/default-car-white.svg
+321,321,ساینا,دیروز,1402,0,دنده ای گازسوز,هریس,380000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5393350a-4914-442f-982c-1fedbdebaef7/CarImage_638374667140634530_thumb_900_600.jpg?width=270
+322,322,کوییک,دیروز,1401,10300,دنده ای,تهران / گیشا (کوی نصر),324000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/414740b0-5597-4903-a29e-78c070d89d7c/CarImage_638374662022794945_thumb_900_600.jpg?width=270
+323,323,چانگان,دیروز,1397,115000,اتوماتیک,لنگرود,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a2797a9a-932d-4e81-81a8-4025a5454bdb/CarImage_638372460321989662_thumb_900_600.jpg?width=270
+324,324,پراید,دیروز,1389,116000,ساده,تهران / سازمان برنامه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1b97af55-f92b-4484-a1b6-9c8bc991f5a8/CarImage_638374773579002202_thumb_900_600.jpeg?width=270
+325,325,ساینا,دیروز,1400,0,دنده ای,تهران / شهرک ولیعصر,,/images/default-images/default-car-white.svg
+326,326,کوییک,دیروز,1401,31000,دنده ای,تهران / اختیاریه,322000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bb264ace-2574-4232-b06e-ddf7e6cd6502/CarImage_638374657940365683_thumb_900_600.jpg?width=270
+327,327,پراید,دیروز,1389,370000,SX,قدس,145000000.0,/images/default-images/default-car-white.svg
+328,328,تیبا,دیروز,1401,0,EX,چالوس / بلوار امام رضا,320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/201f2b21-f76f-4407-b6dd-6259afb4a656/CarImage_638374638304365309_thumb_900_600.jpg?width=270
+329,329,کوییک,دیروز,1402,0,دنده ای,میاندوآب,335000000.0,/images/default-images/default-car-white.svg
+330,330,پراید,دیروز,1392,93000,LE,تهران / ستارخان,190000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8c6b0611-bba8-4fdc-91e8-f2dac48dcc25/CarImage_638374628708280777_thumb_900_600.jpg?width=270
+331,331,کیا,دیروز,1397,197010,2.0 لیتر آپشنال,کرج / عظیمیه,,/images/default-images/default-car-white.svg
+332,332,کیا,دیروز,1396,134000,2.0 لیتر آپشنال,تهران / مجیدیه,1210000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d968ab59-1b27-412f-84d0-5b4c8fbae650/CarImage_638374625750864914_thumb_900_600.jpg?width=270
+333,333,کوییک,دیروز,1402,0,دنده ای,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/674709bd-893a-49ce-baac-a9206ecc73a1/CarImage_638344328253289223_thumb_900_600.jpg?width=270
+334,334,پراید,دیروز,1395,135000,SE,استهبان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0731ee20-21c5-4606-91c7-74e9ac42fbb0/CarImage_638374624541281879_thumb_900_600.jpeg?width=270
+335,335,کیا,دیروز,1396,31600,2.0 لیتر آپشنال,کرج / شهرک بنفشه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3983e412-a6e0-452d-8757-2831e54ec72f/CarImage_638374624498624061_thumb_900_600.jpeg?width=270
+336,336,شاهین,دیروز,1400,28000,دنده ای,تهران / سعادت‌آباد,510000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0122d8a2-dc4f-41e9-8845-5122532bf847/CarImage_638374624239871468_thumb_900_600.jpg?width=270
+337,337,کوییک,دیروز,1402,14000,دنده ای,تهران / جنت‌آباد جنوبی,335000000.0,/images/default-images/default-car-white.svg
+338,338,کیا,دیروز,1394,42000,2.0 لیتر ساده,تهران / بهجت‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2e8c2083-e116-47c1-9064-a245234b4983/CarImage_638374659704164317_thumb_900_600.png?width=270
+339,339,کیا,دیروز,1386,350000,دنده ای,یزد,230000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b216644a-236f-4316-908f-ef943b552d5f/CarImage_638374615668893504_thumb_900_600.jpg?width=270
+340,340,کوییک,دیروز,1401,0,دنده ای,اصفهان / ملک‌شهر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8fc4d898-8c17-4d57-88ce-4437c7d3f26e/CarImage_638374638332214891_thumb_900_600.jpg?width=270
+341,341,پراید,دیروز,1388,280000,دنده ای,اصفهان / باغ زیار,150000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ca2ad25d-a8d3-4a98-8dc1-c084bbdf06b9/CarImage_638374613497902905_thumb_900_600.jpg?width=270
+342,342,پراید,دیروز,1399,59000,SE,کرج / درختی,269000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/08e22e71-86d9-4b13-9d2c-350d6932a6f1/CarImage_638370407607432368_thumb_900_600.jpg?width=270
+343,343,چانگان,دیروز,1397,36500,اتوماتیک,تهران / کلاهدوز,815000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6701b563-9143-4011-aae4-dbca28b66800/CarImage_638366709571929240_thumb_900_600.jpeg?width=270
+344,344,کوییک,دیروز,1402,0,دنده ای,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/349b78a9-fa84-4a79-8e6d-da0ebf47b913/CarImage10514638_638204383577173933_thumb_900_600.jpg?width=270
+345,345,کوییک,دیروز,1402,0,دنده ای,تهران / قیطریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7b2ef4a4-d09b-48e2-9fed-89457b1c9ac1/CarImage_638300549416359846_thumb_900_600.jpeg?width=270
+346,346,کوییک,دیروز,1402,0,اتوماتیک,تهران / قیطریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a9732cb3-a003-4a33-bb1a-334245434403/CarImage_638302869680962159_thumb_900_600.jpeg?width=270
+347,347,کوییک,دیروز,1402,0,دنده ای,تهران / قیطریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/59e36e12-8b76-4b91-b153-758b4a340f7f/CarImage_638297192750880357_thumb_900_600.jpeg?width=270
+348,348,شاهین,دیروز,1402,0,دنده ای,اصفهان / عسگریه,592000000.0,/images/default-images/default-car-white.svg
+349,349,پراید,دیروز,1398,100000,SE,کرج / گلشهر,255000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9d7b2880-b06d-4d1a-8c9b-6facbc6a60f4/CarImage_638341206408971338_thumb_900_600.jpg?width=270
+350,350,پراید,دیروز,1395,185000,SE,همدان / جهانما,198000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a87cd2bb-d469-4e09-9ec6-f2af8d25af02/CarImage_638374584900728062_thumb_900_600.jpg?width=270
+351,351,برلیانس,دیروز,1397,0,1.65 دنده ای,تهران / شهرک استقلال,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5074a8f2-6868-403c-8d11-0034017b166f/CarImage_638374583152427148_thumb_900_600.jpg?width=270
+352,352,کوییک,دیروز,1402,0,دنده ای,تهران / آزادی,340000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/80ebd468-5fb1-4a35-8d74-d829cacdd97f/CarImage_638374577002683860_thumb_900_600.jpg?width=270
+353,353,پراید,دیروز,1397,0,SE,قم / بلوار امین,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d10c136d-741e-4257-a3c1-4b8394c4de86/CarImage_638374575264624524_thumb_900_600.jpg?width=270
+354,354,پراید,دیروز,1385,350000,دنده ای,تهران / نارمک,135000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c0d1b2b1-6693-439e-949e-8dea3b02e973/CarImage_638374573924944869_thumb_900_600.jpg?width=270
+355,355,پراید,دیروز,1387,14441,دنده ای,مشهد / طبرسی,140000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cf73b24f-d0b5-4ef9-9549-88067a49d503/CarImage_638374614561494501_thumb_900_600.jpg?width=270
+356,356,کیا,دیروز,1397,44000,2.0 لیتر آپشنال,تهران / گیشا (کوی نصر),1451900000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0c6bf826-2bdb-4b4f-982b-b95d1ac7aa03/CarImage_638374570613981114_thumb_900_600.jpg?width=270
+357,357,کوییک,دیروز,1402,0,دنده ای,شهریار,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f259cb67-b71b-470f-93fd-46a2785a2de9/CarImage_638374568841816245_thumb_900_600.jpg?width=270
+358,358,زوتی,دیروز,1397,70000,1.6 لیتر اتوماتیک,فریدون شهر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1071aa7e-3eaa-4a0f-8de4-6d679d389d13/CarImage_638374567658082900_thumb_900_600.jpg?width=270
+359,359,کیا,دیروز,1397,116000,2.0 لیتر آپشنال,اصفهان /  خیابان مصلی  نیکبخت شرقی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/28773f90-7f22-49d7-83e2-773a0f211873/CarImage_638329937167372557_thumb_900_600.jpeg?width=270
+360,360,پراید,دیروز,1385,500000,دنده ای,شهریار / باغستان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4f5b82a1-d572-4e87-834a-0a8e4e4bd752/CarImage_638374567084180585_thumb_900_600.jpg?width=270
+361,361,پراید,دیروز,1402,11000,SE,فریمان,260000000.0,/images/default-images/default-car-white.svg
+362,362,چانگان,دیروز,1396,130000,اتوماتیک,تهران / میدان هروی,705000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/31753313-1ccf-462a-8388-136dc61a1946/CarImage_638374565263422286_thumb_900_600.jpg?width=270
+363,363,چانگان,دیروز,1397,120000,اتوماتیک,تهران / باغ فیض,800000000.0,/images/default-images/default-car-white.svg
+364,364,کیا,دیروز,1397,41000,2.0 لیتر آپشنال,تهران / خواجه عبداله,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9245080b-6fcb-4537-a5e1-3c5fdcecbd61/CarImage_638368511389074208_thumb_900_600.jpeg?width=270
+365,365,پراید,دیروز,1385,112333,دنده ای,اصفهان / ستار,,/images/default-images/default-car-white.svg
+366,366,شاهین,دیروز,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ecdc682c-2f31-476b-8728-89cd57e791ab/CarImage_638367731413600934_thumb_900_600.jpg?width=270
+367,367,چانگان,دیروز,2023,0,تیپ 3,تهران / سعادت آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6698af26-b782-4de9-bec4-69190d970d59/CarImage_638362484175068078_thumb_900_600.jpeg?width=270
+368,368,برلیانس,دیروز,1397,97000,1.65 اتوماتیک,اصفهان / خیابان امام خمینی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c920e87f-ec09-4b80-a689-62e429001dda/CarImage_638341776459047977_thumb_900_600.jpg?width=270
+369,369,برلیانس,دیروز,1395,96000,1.5 اتوماتیک,تهران / سیدخندان,470000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d1d00388-9e50-4b1c-9c66-7f541a558dba/CarImage_638374553557523915_thumb_900_600.jpg?width=270
+370,370,شاهین,دیروز,1402,0,دنده ای,تهران / خیابان توحید,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/be763440-2d2a-4e36-8df0-eee2a64db259/CarImage10456739_638179271564937764_thumb_900_600.jpg?width=270
+371,371,ساینا,دیروز,1402,0,دنده ای گازسوز,تهران / خیابان توحید,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d8096a8a-b69b-4718-8bc0-8ddae0a5c7d7/CarImage10505845_638200010872521577_thumb_900_600.jpg?width=270
+372,372,تیبا,دیروز,1399,20000,EX,تهران / منیریه,290000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ffca2951-2867-4196-b666-232f8f3bff1b/CarImage_638374653695082625_thumb_900_600.jpg?width=270
+373,373,کوییک,دیروز,1400,37000,اتوماتیک,تهران / مجیدیه,398000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/56d736d5-d941-4033-9359-cf7a93b46eae/CarImage_638374545059031979_thumb_900_600.jpeg?width=270
+374,374,چانگان,دیروز,1397,37000,اتوماتیک,تهران / میدان هروی,815000000.0,/images/default-images/default-car-white.svg
+375,375,کوییک,دیروز,1402,0,دنده ای,تهران / جنت‌آباد شمالی,357000000.0,/images/default-images/default-car-white.svg
+376,376,پراید,دیروز,1397,200000,SE,تهران / صادقیه,250000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/92245ef9-8a6c-4925-9941-ef0ffd52aa23/CarImage_638374541689752077_thumb_900_600.jpg?width=270
+377,377,برلیانس,دیروز,1397,75000,1.65 اتوماتیک,اصفهان / خیابان شیخ مفید,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/44a490c1-3696-4250-b1d2-f84eabbc5800/CarImage_638347821490848420_thumb_900_600.jpg?width=270
+378,378,تیبا,دیروز,1396,96000,SX بنزینی,تهران / امیر بهادر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/90c11147-c1d4-40e7-94c2-f38ddf781050/CarImage_638371187448500607_thumb_900_600.jpg?width=270
+379,379,کیا,دیروز,1393,68000,2.0 لیتر ساده,تهران / شریعتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2a122ed3-ce64-46ee-ad70-4511e0d8ad66/CarImage_638371408501001578_thumb_900_600.jpeg?width=270
+380,380,کیا,دیروز,1397,115000,2.0 لیتر آپشنال,اصفهان / هشت بهشت غربی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f40aeabb-8cf0-4f47-8c1c-cdaf55207302/CarImage10544645_638221054422054605_thumb_900_600.jpg?width=270
+381,381,تیبا,دیروز,1397,67000,SX بنزینی,تهران / شهرک راه‌آهن,250000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f4eb7b32-08bb-459b-90fc-fa0762f769b0/CarImage_638374524934079662_thumb_900_600.jpg?width=270
+382,382,شاهین,دیروز,1402,0,دنده ای,تهران / صادقیه,590000000.0,/images/default-images/default-car-white.svg
+383,383,شاهین,دیروز,1401,0,دنده ای,اصفهان / ناژوان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e95b3531-36ad-48b7-85a6-d35428f27e7f/CarImage_638374523220611926_thumb_900_600.jpg?width=270
+384,384,کیا,دیروز,1398,30000,2.0 لیتر آپشنال,تهران / نازی آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b723ce94-37cc-4f36-a829-92233fbbb64b/CarImage_638369350337180747_thumb_900_600.jpeg?width=270
+385,385,کیا,دیروز,1396,58000,2.0 لیتر آپشنال,تهران / پاسداران,1400000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/740fcd79-cc23-45cb-9091-986fa6f99820/CarImage_638374525503364788_thumb_900_600.jpg?width=270
+386,386,پراید,دیروز,1384,300000,دنده ای,بیرجند,120000000.0,/images/default-images/default-car-white.svg
+387,387,کوییک,دیروز,1400,42000,دنده ای,تهران / تهرانپارس غربی,305000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/aa0205cf-7ce7-41ed-b25a-a238be5667a2/CarImage_638374513171838696_thumb_900_600.jpg?width=270
+388,388,پراید,دیروز,1389,153000,دنده ای,نجف آباد,,/images/default-images/default-car-white.svg
+389,389,کوییک,دیروز,1402,0,اتوماتیک,تهران / شمس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/35decacb-a13e-4022-8466-6b50c641e048/CarImage10467609_638183613388004511_thumb_900_600.jpg?width=270
+390,390,کوییک,دیروز,1402,0,دنده ای,تهران / سعادت آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e27e7122-a0d2-4fe3-ad95-d59024514d3b/CarImage_638322733125322790_thumb_900_600.jpg?width=270
+391,391,ساینا,دیروز,1402,0,دنده ای بنزینی,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b0ede9de-5a16-418a-94fa-7df5d2d5bf44/CarImage_638333131105425737_thumb_900_600.jpeg?width=270
+392,392,پراید,دیروز,1402,0,SE,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b5e92e9b-ed8d-45fe-bb8e-82ff2136e7e3/CarImage_638333014921179456_thumb_900_600.jpeg?width=270
+393,393,کوییک,دیروز,1402,0,دنده ای,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1376d098-45ce-4d7b-a3f6-d60a5cfcc849/CarImage_638348616032447087_thumb_900_600.jpeg?width=270
+394,394,شاهین,دیروز,1402,0,دنده ای,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/967feb08-3c68-4bb3-9a0a-1e0fa5dd33d4/CarImage_638333013518037757_thumb_900_600.jpeg?width=270
+395,395,کوییک,دیروز,1402,0,اتوماتیک,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8cd7dc58-35ea-4cd3-8cc6-aeeb6574e564/CarImage_638359979425744675_thumb_900_600.jpg?width=270
+396,396,کوییک,دیروز,1402,0,دنده ای,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9457f7f2-852e-4869-b608-be66632b1b0e/CarImage_638333130672391196_thumb_900_600.jpeg?width=270
+397,397,شاهین,دیروز,1402,0,CVT,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2dbad366-fbc0-4dba-ac0e-ba7617bee9a5/CarImage_638350480708150685_thumb_900_600.jpeg?width=270
+398,398,پراید,دیروز,1399,51000,SE,تهران / سهروردی,265000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fc616ee2-0638-4a58-9cf1-471408356535/CarImage_638374516283137394_thumb_900_600.jpg?width=270
+399,399,پراید,دیروز,1391,288000,SL,پاکدشت,165000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9f987a55-9751-48cf-9910-7940242be0a2/CarImage_638374491493880917_thumb_900_600.jpg?width=270
+400,400,کوییک,دیروز,1402,0,اتوماتیک,تهران / قلهک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4ecdb82a-3d3a-4d9b-b70b-403f4d460412/CarImage_638374483735160908_thumb_900_600.jpeg?width=270
+401,401,برلیانس,دیروز,1399,68000,1.65 اتوماتیک,بوشهر,,/images/default-images/default-car-white.svg
+402,402,تیبا,دیروز,1393,200000,SX دوگانه سوز,تهران / مجیدیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/805e4f0b-3ef1-4381-b28a-dc794bf1e3dd/CarImage_638374465781615188_thumb_900_600.jpg?width=270
+403,403,تیبا,دیروز,1400,43000,EX,شهریار,304000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6af13cfd-24af-47c2-b87f-760b8f95766f/CarImage_638374267726791651_thumb_900_600.jpg?width=270
+404,404,تیبا,دیروز,1400,43000,EX,شهریار,304000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/24136af0-68df-47c9-82fa-a20ae9e632b1/CarImage_638374264569520135_thumb_900_600.jpg?width=270
+405,405,پراید,دیروز,1398,74000,SE,اصفهان / خرم,260000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/70472c37-0838-4178-b4bc-0c1f3ca6c0f9/CarImage_638374253285752700_thumb_900_600.jpg?width=270
+406,406,سیتروئن,دیروز,1397,39000,اتوماتیک,تهران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/357dd8aa-8232-496c-ba0b-84b8e4c192bd/CarImage_638374247133897687_thumb_900_600.jpeg?width=270
+407,407,پراید,دیروز,1388,450000,دنده ای,اردبیل / میدان مادر,154000000.0,/images/default-images/default-car-white.svg
+408,408,کوییک,2 روز پیش,1401,27000,دنده ای,کرج / باغستان,325000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a1a55db2-1768-4d40-8f52-6f35523b2ead/CarImage_638374133969887181_thumb_900_600.jpg?width=270
+409,409,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,زاهدان,352000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/757e8db7-cbef-48a6-be7a-c9a5d972ecdd/CarImage_638374172456485907_thumb_900_600.jpg?width=270
+410,410,تیبا,2 روز پیش,1401,0,SX بنزینی,هشتگرد,,/images/default-images/default-car-white.svg
+411,411,شاهین,2 روز پیش,1400,28500,دنده ای,تهران / یوسف‌آباد,508000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9189660b-8e32-4d17-868c-29299846177d/CarImage_638374149534659996_thumb_900_600.jpg?width=270
+412,412,پراید,2 روز پیش,1387,480000,ساده,تهران / امام حسین(ع),110000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2abf9db1-62bc-4157-9c6a-d7b1e5d92c55/CarImage_638374148865250702_thumb_900_600.jpg?width=270
+413,413,کیا,2 روز پیش,1397,165000,2.0 لیتر آپشنال,بابل,1350000000.0,/images/default-images/default-car-white.svg
+414,414,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,تهران / زنجان,360000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/aedbe126-b04a-467c-a725-e71cd3c080b2/CarImage_638374143604197112_thumb_900_600.jpg?width=270
+415,415,کوییک,2 روز پیش,1402,0,دنده ای,چایپاره,,/images/default-images/default-car-white.svg
+416,416,کوییک,2 روز پیش,1401,26000,اتوماتیک,تهران / شهرک غرب,400000000.0,/images/default-images/default-car-white.svg
+417,417,پراید,2 روز پیش,1398,170000,SE,شیراز / شهر صدرا,235000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9504d5c5-ec8b-4557-9af7-6f3022ba1eac/CarImage_638374122825260476_thumb_900_600.jpg?width=270
+418,418,کوییک,2 روز پیش,1401,0,دنده ای,تهران / صادقیه,338000000.0,/images/default-images/default-car-white.svg
+419,419,پراید,2 روز پیش,1393,135000,SE,آباده,,/images/default-images/default-car-white.svg
+420,420,کوییک,2 روز پیش,1401,0,دنده ای,تهران / سیدخندان,320000000.0,/images/default-images/default-car-white.svg
+421,421,برلیانس,2 روز پیش,1399,65000,1.65 اتوماتیک,تهران / گرگان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1a38ddee-af8c-46a1-83ff-41091b0f57f9/CarImage_638349040000725561_thumb_900_600.jpg?width=270
+422,422,پراید,2 روز پیش,1402,0,SE,تهران / پیروزی,275000000.0,/images/default-images/default-car-white.svg
+423,423,ساینا,2 روز پیش,1401,0,دنده ای بنزینی,گرگان / خیابان جانبازان,339000000.0,/images/default-images/default-car-white.svg
+424,424,پراید,2 روز پیش,1382,100000,دنده ای,اصفهان / شیخ صدوق,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d0cc2ce9-5ab6-4282-b5d4-6d63d5caa661/CarImage_638374099174587461_thumb_900_600.jpg?width=270
+425,425,پراید,2 روز پیش,1390,206000,SL,دامغان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d8244026-d35f-42c0-8685-ea97a9dc2a2b/CarImage_638374096682324219_thumb_900_600.jpg?width=270
+426,426,پراید,2 روز پیش,1389,150000,SE,تهران / دریاچه شهدای خلیج فارس,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e94a7d3b-058a-42a8-a1c2-55f9bf7f2aa9/CarImage_638374082950570735_thumb_900_600.jpeg?width=270
+427,427,کیا,2 روز پیش,1389,90000,دنده ای,بم,265000000.0,/images/default-images/default-car-white.svg
+428,428,تیبا,2 روز پیش,1392,220000,SX دوگانه سوز,تهران / امیرآباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8471008b-6f4c-45c0-b8e7-59fe8f98c09a/CarImage_638374082359323712_thumb_900_600.jpg?width=270
+429,429,پراید,2 روز پیش,1398,112000,SE,گرگان,175000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/22d665f6-b89e-4051-a470-4188819e0bd7/CarImage_638368151239299793_thumb_900_600.jpeg?width=270
+430,430,چانگان,2 روز پیش,1396,130000,اتوماتیک,اردبیل,725000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/15391ed3-32b6-4b38-b674-ddf1ba185dd4/CarImage_638374051159713411_thumb_900_600.jpg?width=270
+431,431,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,کرمان,357000000.0,/images/default-images/default-car-white.svg
+432,432,تیبا,2 روز پیش,1397,110000,EX,همدان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a64ba74d-b4e2-48a3-8174-20ddda83cac7/CarImage_638374570840130158_thumb_900_600.jpg?width=270
+433,433,کوییک,2 روز پیش,1401,23000,دنده ای,رشت / حمیدیان,325000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ce39d92f-9d4a-45e8-8903-6f0b7717fbcf/CarImage_638374036860509945_thumb_900_600.jpg?width=270
+434,434,کوییک,2 روز پیش,1402,0,دنده ای,تهران / امام حسین(ع),333000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d8ece0b3-164c-41d2-a512-31cbd9a3904a/CarImage_638374024280759251_thumb_900_600.jpeg?width=270
+435,435,شاهین,2 روز پیش,1400,25000,دنده ای,اصفهان / الیادران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a65fd4a1-fdad-4dfa-a9b4-1be361bad11b/CarImage_638374019518181743_thumb_900_600.jpeg?width=270
+436,436,تیبا,2 روز پیش,1393,100000,SX,لنگرود,250000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c7831967-2aed-49f9-99ec-bb695d6c7127/CarImage_638374018520533236_thumb_900_600.jpeg?width=270
+437,437,شاهین,2 روز پیش,1402,0,CVT,تهران / پاسداران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e574d7f5-7182-4446-aae3-529510be205a/CarImage_638374016532534147_thumb_900_600.jpg?width=270
+438,438,پراید,2 روز پیش,1390,185000,SX,بابل,140000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9f057a9c-3e54-4c21-abb8-e810814615f1/CarImage_638373991264660501_thumb_900_600.jpeg?width=270
+439,439,کوییک,2 روز پیش,1401,0,دنده ای,تهران / دریاچه شهدای خلیج فارس,325000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7e04cf8e-f3a5-4d9c-818c-a68d6f652fc1/CarImage_638373987302991542_thumb_900_600.jpg?width=270
+440,440,کوییک,2 روز پیش,1400,0,دنده ای,ساری,310000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ac8029c6-72a2-4369-904b-eaf85bdcc9cb/CarImage_638373987026210062_thumb_900_600.jpg?width=270
+441,441,تیبا,2 روز پیش,1400,39000,EX,آمل,,/images/default-images/default-car-white.svg
+442,442,ساینا,2 روز پیش,1399,24000,دنده ای,اصفهان / کاوه,305000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bd2933b4-7e44-460d-9333-ba06f2f7caf7/CarImage_638373971678696402_thumb_900_600.jpg?width=270
+443,443,کوییک,2 روز پیش,1402,0,دنده ای,قم,352000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6b0b1b1f-cb5b-4aa8-b790-afd1408bd0df/CarImage_638374556509049437_thumb_900_600.jpg?width=270
+444,444,کوییک,2 روز پیش,1397,102000,اتوماتیک,گرگان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2c5581c4-9f5b-4f31-bb79-ab3bf1e68ac7/CarImage_638373967919183792_thumb_900_600.jpg?width=270
+445,445,پراید,2 روز پیش,1380,350000,دنده ای,اصفهان / اشراق,118000000.0,/images/default-images/default-car-white.svg
+446,446,پراید,2 روز پیش,1397,41212,SE,شهریار,235000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cf2a2fad-e5ed-4f75-9e74-4af2354db9b5/CarImage_638373954053742469_thumb_900_600.jpg?width=270
+447,447,پراید,2 روز پیش,1398,104000,SE,مشهد,275000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f1cc813c-7ff5-4f6b-b3d4-ab01854fe79a/CarImage_638373953077279617_thumb_900_600.jpeg?width=270
+448,448,پراید,2 روز پیش,1381,175000,دنده ای,تهران / شهرک غرب,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1dbad6f5-6eec-406d-83c0-0cbac3f8b466/CarImage_638373949973469458_thumb_900_600.jpg?width=270
+449,449,کیا,2 روز پیش,1397,78000,2.0 لیتر آپشنال,تهران / شهرک غرب,1410000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6ba960f9-e7cb-4674-80ae-c2be5f67e550/CarImage_638368614878135325_thumb_900_600.jpg?width=270
+450,450,چانگان,2 روز پیش,2023,0,تیپ 3,تهران / بلوار آیت الله کاشانی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3c2280e8-befa-4594-be90-2f647d158e9f/CarImage_638354886496518089_thumb_900_600.jpeg?width=270
+451,451,پراید,2 روز پیش,1399,44000,SE,تهران / آذری,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d1f691cf-7f90-41de-acaa-70560046dacf/CarImage_638373943045181164_thumb_900_600.jpeg?width=270
+452,452,کیا,2 روز پیش,1396,115000,2.0 لیتر آپشنال,فریدون کنار / مازندران فریدونکنار,1320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/71b9fdad-9e1e-49df-94ce-b83221d9ed23/CarImage_638373935287708183_thumb_900_600.jpeg?width=270
+453,453,سیتروئن,2 روز پیش,1386,270000,2.0 لیتر SX,کرج / مهرویلا,380000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a5568afd-f0c7-4d64-81ec-e9c0af0b3ce0/CarImage_638373931711001315_thumb_900_600.jpeg?width=270
+454,454,کوییک,2 روز پیش,1402,0,دنده ای,اصفهان / ملک‌شهر,347000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5c3a49c4-d603-49a8-b00b-ac941a226d31/CarImage_638373930818668210_thumb_900_600.jpg?width=270
+455,455,شاهین,2 روز پیش,1402,0,دنده ای,مرودشت,565000000.0,/images/default-images/default-car-white.svg
+456,456,ساینا,2 روز پیش,1401,65000,دنده ای,قم / امامزاده ابراهیم,322000000.0,/images/default-images/default-car-white.svg
+457,457,چانگان,2 روز پیش,2015,100000,اتوماتیک,تهران / تهرانپارس غربی,719000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d4b121e0-776e-4bdf-a052-d3ab9ea75952/CarImage_638373908326159641_thumb_900_600.jpg?width=270
+458,458,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/53a267f9-7854-42fa-a794-fde03d8b241b/CarImage10514765_638204411761954344_thumb_900_600.jpg?width=270
+459,459,شاهین,2 روز پیش,1402,0,دنده ای,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0ec18c9f-7eea-49c7-9ba8-c5aca800e456/CarImage10582976_638244109303598154_thumb_900_600.jpg?width=270
+460,460,تیبا,2 روز پیش,1396,158000,EX,شمیرانات,,/images/default-images/default-car-white.svg
+461,461,کوییک,2 روز پیش,1399,30000,دنده ای,روانسر,300000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eaa6f9e6-7eb0-449a-b589-a17cf9c4f054/CarImage_638373871171708066_thumb_900_600.jpg?width=270
+462,462,پراید,2 روز پیش,1395,94000,SE,تنکابن,230000000.0,/images/default-images/default-car-white.svg
+463,463,چانگان,2 روز پیش,2015,240000,اتوماتیک,تهران / پونک,650000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e91e3c18-804a-4a8c-ae92-ba4aa77c40a5/CarImage_638373860907853120_thumb_900_600.jpg?width=270
+464,464,پراید,2 روز پیش,1393,155000,SE,تهران / الهیه,210000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/18e1f82c-a0d8-445d-b18a-77352420ed82/CarImage_638373860272082046_thumb_900_600.jpeg?width=270
+465,465,پراید,2 روز پیش,1394,0,SE,اصفهان,140000080.0,/images/default-images/default-car-white.svg
+466,466,پراید,2 روز پیش,1388,262000,دنده ای,اصفهان / خرم,173000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9193d361-c330-4bf2-8715-0dda9fe68056/CarImage_638373852505733129_thumb_900_600.jpg?width=270
+467,467,کوییک,2 روز پیش,1401,40000,دنده ای,گرگان / گلشهر,280000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/93115f92-bd31-4481-83e5-fc2996c89620/CarImage_638373849397296405_thumb_900_600.png?width=270
+468,468,کیا,2 روز پیش,1397,24500,2.0 لیتر آپشنال,تهران / پاسداران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/644f5d91-0d02-4976-b328-36f48793a64b/CarImage_638373845628174837_thumb_900_600.jpg?width=270
+469,469,شاهین,2 روز پیش,1402,0,دنده ای,تهران / تهرانپارس شرقی,599000000.0,/images/default-images/default-car-white.svg
+470,470,پراید,2 روز پیش,1387,249000,دنده ای,تهران / تهرانپارس غربی,140000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e38d3f9a-a86e-43fd-8588-57b08e3aad88/CarImage_638373840724782594_thumb_900_600.jpg?width=270
+471,471,پراید,2 روز پیش,1396,28500,SE,تهران / آرژانتین,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e8b4c299-8e8f-440c-bbce-b542c94072f4/CarImage_638373840496706995_thumb_900_600.jpg?width=270
+472,472,کوییک,2 روز پیش,1402,0,اتوماتیک,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1f0c4ba0-d519-4270-895d-3e8d1d6f01e0/CarImage10510551_638202647486461093_thumb_900_600.jpg?width=270
+473,473,پراید,2 روز پیش,1402,0,SE,کرج / گوهردشت,272000000.0,/images/default-images/default-car-white.svg
+474,474,پراید,2 روز پیش,1392,250000,EX,کرج / عظیمیه,207000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fe6de3d2-3a87-472e-9e05-d8e76c8c60bc/CarImage_638373823964003049_thumb_900_600.jpg?width=270
+475,475,ساینا,2 روز پیش,1400,122000,دنده ای,شمیرانات,298000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/856ee047-1451-4a88-94b9-fadd9432e890/CarImage_638373818094336872_thumb_900_600.jpg?width=270
+476,476,کوییک,2 روز پیش,1402,11000,اتوماتیک,اصفهان / رزمندگان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/225e1d48-347b-4424-9328-7a004f0ecbf8/CarImage_638373810207088066_thumb_900_600.jpeg?width=270
+477,477,کوییک,2 روز پیش,1402,0,دنده ای,شیراز / شهرک پرواز,345000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a40817c1-712e-42ef-bb06-fba99cf15cba/CarImage_638373817786466170_thumb_900_600.jpg?width=270
+478,478,کوییک,2 روز پیش,1402,0,دنده ای,تهران / فلکه دوم صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5b652ad0-9985-4c18-860e-5a0a5f0af22e/CarImage_638343501329797211_thumb_900_600.jpg?width=270
+479,479,کوییک,2 روز پیش,1402,0,دنده ای,تهران / چیتگر,,/images/default-images/default-car-white.svg
+480,480,برلیانس,2 روز پیش,1396,83000,1.5 اتوماتیک,تهران / نارمک,590000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/49b2f46a-d49f-44ed-a828-4c3e7db8bb89/CarImage_638371057761685881_thumb_900_600.jpg?width=270
+481,481,پراید,2 روز پیش,1398,50000,SE,تهران / نازی‌آباد,280000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f23eb19d-a35d-4b23-ba9b-678c76f20a87/CarImage_638371578000959974_thumb_900_600.jpg?width=270
+482,482,شاهین,2 روز پیش,1402,0,دنده ای,تهران / سعادت‌آباد,589000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5f1e2a78-4803-457c-a3a2-583c08342191/CarImage_638374493784426209_thumb_900_600.jpg?width=270
+483,483,کیا,2 روز پیش,1395,94000,2.0 لیتر ساده,تهران / گیشا (کوی نصر),1050000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2a78f2c6-50e1-4cd5-a78a-cceec169a530/CarImage_638373795907709076_thumb_900_600.jpg?width=270
+484,484,پراید,2 روز پیش,1402,0,SE,بروجن,278000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c1fdb05b-b7d2-4411-a357-51a3e7082006/CarImage_638373805251954864_thumb_900_600.jpg?width=270
+485,485,کوییک,2 روز پیش,1402,0,دنده ای,تهران / تهرانپارس,354000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/71b2c5f3-1345-4203-a6f4-1668885ec6e9/CarImage_638373785990506028_thumb_900_600.jpg?width=270
+486,486,پراید,2 روز پیش,1389,125000,دنده ای,مراغه,160000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fae229e4-859e-409b-a6f6-a4570d22860f/CarImage_638373782281099939_thumb_900_600.jpg?width=270
+487,487,ساینا,2 روز پیش,1401,30000,دنده ای بنزینی,کرج / عظیمیه,325000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6f5a0408-d5a9-4cee-b5be-88b267310157/CarImage_638373769684644198_thumb_900_600.jpeg?width=270
+488,488,شاهین,2 روز پیش,1402,0,CVT,تهران / دانشگاه شریف,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c99ee640-df4c-4510-93e1-a3c5dbc665c1/CarImage_638373768865646536_thumb_900_600.jpeg?width=270
+489,489,کوییک,2 روز پیش,1402,0,اتوماتیک,تهران / دانشگاه شریف,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ae08c97b-c6bd-4d97-9ea7-d5c95cb16f0c/CarImage_638373768190887284_thumb_900_600.jpg?width=270
+490,490,کوییک,2 روز پیش,1402,0,دنده ای,تهران / شهید بهشتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/30c4c863-183b-4634-9294-2f3992468cf0/CarImage10502180_638197643254354629_thumb_900_600.jpeg?width=270
+491,491,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,تهران / دانشگاه شریف,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ee3d09dd-7fd5-4e2f-b33e-2ad1bae8babd/CarImage_638373763588092142_thumb_900_600.jpeg?width=270
+492,492,پراید,2 روز پیش,1399,92000,SE,قزوین,268000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3b60b0d5-47fa-4f92-884b-0f8e520cc049/CarImage_638373747984441040_thumb_900_600.jpg?width=270
+493,493,کیا,2 روز پیش,1396,76000,2.0 لیتر آپشنال,کرج / عظیمیه,1250000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1207de90-c292-475c-b64b-72e77029a2c1/CarImage_638373744590722387_thumb_900_600.jpg?width=270
+494,494,کیا,2 روز پیش,1398,0,2.0 لیتر آپشنال,تهران / بزرگراه جلال آل احمد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6fb54b0d-b2be-4f5d-a226-1f0f41e032cd/CarImage10468552_638186485765633882_thumb_900_600.jpeg?width=270
+495,495,کیا,2 روز پیش,1397,0,2.0 لیتر آپشنال,تهران / بزرگراه جلال آل احمد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/167b89e0-a209-4875-913a-6c8d1f48b3e9/CarImage10468549_638186482552775008_thumb_900_600.jpeg?width=270
+496,496,سیتروئن,2 روز پیش,1397,12500,اتوماتیک,تهران / سهروردی,1750000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c385de1c-2dfc-4a71-899c-c9831bfb293c/CarImage_638373740027423690_thumb_900_600.jpg?width=270
+497,497,پراید,2 روز پیش,1386,190000,دنده ای,تهران / دروازه شمیران,,/images/default-images/default-car-white.svg
+498,498,تیبا,2 روز پیش,1397,106000,EX,چالوس / بلوار امام رضا,268000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3ec2c320-9926-4c48-9ade-448f00da0739/CarImage_638373734328201457_thumb_900_600.jpg?width=270
+499,499,کیا,2 روز پیش,1397,55000,2.0 لیتر آپشنال,تهران / سعادت‌آباد,1420000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a5a33fbb-2564-49c2-944f-091209ef0e58/CarImage_638373733501085133_thumb_900_600.jpg?width=270
+500,500,پراید,2 روز پیش,1396,115000,SE,زنجان,215000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7577d232-6498-4171-bae1-8a6c97bd25a6/CarImage_638373732642089262_thumb_900_600.jpg?width=270
+501,501,کیا,2 روز پیش,1394,89000,2.0 لیتر ساده,تهران / سیدخندان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a0af2d8d-ea97-4e71-90fd-497e88e92068/CarImage_638373725903759445_thumb_900_600.jpg?width=270
+502,502,پراید,2 روز پیش,1389,240000,دنده ای,تهران / سازمان برنامه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bd70dd93-37a8-4e56-8235-6507c13d84fe/CarImage_638373725846937495_thumb_900_600.jpg?width=270
+503,503,تیبا,2 روز پیش,1399,70000,EX,تهران / ظفر,285000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ac0cd80f-9226-4be1-8e44-d910eecf71cd/CarImage_638373721128889504_thumb_900_600.jpg?width=270
+504,504,کیا,2 روز پیش,1398,54000,2.0 لیتر آپشنال,تهران / ازگل,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a83c4fb6-410d-429b-aedf-47c070282da8/CarImage_638373714781910947_thumb_900_600.jpeg?width=270
+505,505,زوتی,2 روز پیش,1397,100000,1.6 لیتر اتوماتیک,تهران / پاسداران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/acb2cf1d-d73e-400b-bfba-eceea1741fd9/CarImage_638373713675461144_thumb_900_600.jpeg?width=270
+506,506,چانگان,2 روز پیش,2023,0,تیپ 3,تهران / قبا,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/65ca5542-d9ba-4313-b6c4-d07bc125d1b4/CarImage_638360982336627514_thumb_900_600.jpeg?width=270
+507,507,کیا,2 روز پیش,1387,150000,دنده ای,تهران / بلوار فردوس,265000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9fd857e3-2868-4b95-8c14-bb38f7d3d0b2/CarImage_638373702446431549_thumb_900_600.jpg?width=270
+508,508,شاهین,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/77ff5c51-6e46-4b04-8042-1db9b69cfbf2/CarImage_638299637429451123_thumb_900_600.png?width=270
+509,509,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a309d580-5246-4393-8f4a-ee8c6c54f16c/CarImage_638349602477048936_thumb_900_600.jpg?width=270
+510,510,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9c28a87e-69b6-4e3f-88f0-464f5a0ed628/CarImage_638323771984998083_thumb_900_600.png?width=270
+511,511,پراید,2 روز پیش,1402,0,SE,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f1f64b48-0904-4ee9-89ed-2d6cecf948cf/CarImage_638299657457738346_thumb_900_600.png?width=270
+512,512,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8fb94298-7650-4451-93dc-af5f75d9d4ee/CarImage_638299636357083802_thumb_900_600.png?width=270
+513,513,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,تهران / شهید مطهری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0b771275-6bfb-4031-a2ba-509679364c86/CarImage_638344273859703123_thumb_900_600.jpeg?width=270
+514,514,شاهین,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fb4eb918-0636-40a0-b4b0-a87180e216d2/CarImage_638314246424935919_thumb_900_600.jpg?width=270
+515,515,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9fdd1008-9524-4be4-a4e6-9d71c9078382/CarImage_638314110105801054_thumb_900_600.jpeg?width=270
+516,516,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1d4d30be-db82-464d-842e-e0b3b82b0c63/CarImage_638299622451113821_thumb_900_600.png?width=270
+517,517,کوییک,2 روز پیش,1402,0,دنده ای,تهران / تهرانپارس غربی,346000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a87fd99b-97a4-43cf-85c1-fa08c7a86dfc/CarImage_638373697055458361_thumb_900_600.jpg?width=270
+518,518,کیا,2 روز پیش,1394,281000,1.6 لیتر ساده,کرج / باغستان,765000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ba35dae0-21f3-4768-8fc1-655f3a66cdfa/CarImage_638373696654658850_thumb_900_600.jpg?width=270
+519,519,سیتروئن,2 روز پیش,1383,280000,2.0 لیتر X,کرج / مصباح,260000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0df1e9cd-b8e9-4cc4-9b3e-f97288f1e91b/CarImage_638373696192326607_thumb_900_600.jpg?width=270
+520,520,چانگان,2 روز پیش,2023,0,تیپ 2,تهران / خیابان شریعتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/24d6d288-6f14-48bd-be82-7c429d24c91a/CarImage_638324756710484333_thumb_900_600.jpeg?width=270
+521,521,چانگان,2 روز پیش,2023,0,تیپ 3,تهران / خیابان شریعتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b59c0074-d60a-4ceb-9351-18881a8296fe/CarImage_638324758779159937_thumb_900_600.jpeg?width=270
+522,522,چانگان,2 روز پیش,2023,0,تیپ 3,تهران / خیابان شریعتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a5d61aeb-92ba-43fb-a51b-a77e326cf893/CarImage_638329207178374138_thumb_900_600.jpeg?width=270
+523,523,چانگان,2 روز پیش,2023,0,تیپ 3,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8c5765b7-2709-4a82-9892-8ce1b46a5f8c/CarImage_638338315173911380_thumb_900_600.jpg?width=270
+524,524,کیا,2 روز پیش,1397,70000,2.0 لیتر آپشنال,اصفهان / خیابان ارباب,1430000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/526f67e8-5e82-408d-868e-d450fdc505d7/CarImage_638366778287964645_thumb_900_600.jpeg?width=270
+525,525,پراید,2 روز پیش,1402,0,SE,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/55c42237-4cb4-421e-a490-76b1f11b3274/CarImage_638325323832670210_thumb_900_600.jpg?width=270
+526,526,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5d500224-1aec-40d0-8d78-f249c267bd07/CarImage_638299625548912968_thumb_900_600.jpg?width=270
+527,527,کیا,2 روز پیش,1385,400000,دنده ای,لنگرود,,/images/default-images/default-car-white.svg
+528,528,پراید,2 روز پیش,1402,0,SE,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0a48f1ed-d410-4102-8d94-70116cb7714f/CarImage_638320115258768463_thumb_900_600.jpg?width=270
+529,529,شاهین,2 روز پیش,1402,0,CVT,تهران / خیابان شریعتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f8d43113-e387-4ae4-be47-348e89af1d1e/CarImage_638372937358708348_thumb_900_600.jpeg?width=270
+530,530,پراید,2 روز پیش,1402,0,SE,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7e10493c-ff98-45c2-9e1b-c112b7e89140/CarImage_638320114449595430_thumb_900_600.jpg?width=270
+531,531,پراید,2 روز پیش,1395,130000,SE,تهران / هاشمی,215000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d5df7b3b-201f-4577-bc54-c60953a09a0b/CarImage_638373691378797282_thumb_900_600.jpg?width=270
+532,532,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8231f5bc-4cce-4902-9c64-d725bb801447/CarImage_638320138781806731_thumb_900_600.png?width=270
+533,533,پراید,2 روز پیش,1396,191000,SE,تهران / چیذر,231000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e5a9484f-a120-4d11-b7a2-e85dfb4b261c/CarImage_638373689581759928_thumb_900_600.jpg?width=270
+534,534,پراید,2 روز پیش,1384,330000,ساده,کرج / شاهین‌ویلا,,/images/default-images/default-car-white.svg
+535,535,چانگان,2 روز پیش,2023,0,تیپ 3,تهران / دریا,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0a60a079-fd5e-45f8-b87f-ce5549a40c0b/CarImage_638373687139586279_thumb_900_600.jpg?width=270
+536,536,کوییک,2 روز پیش,1401,13000,دنده ای,اصفهان / اشراق,320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5fdd8b92-e676-4d68-97a6-9d28daabbeb1/CarImage_638373685400012281_thumb_900_600.jpeg?width=270
+537,537,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b8e6c694-95ea-4c41-9b07-c880c7e08a17/CarImage_638314250776243050_thumb_900_600.jpg?width=270
+538,538,ساینا,2 روز پیش,1402,0,دنده ای بنزینی,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0e252fe9-6157-46ad-b35f-d5a7ed3ab024/CarImage_638316707211708167_thumb_900_600.jpg?width=270
+539,539,تیبا,2 روز پیش,1401,0,EX,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3bf1efc9-8d60-4045-8630-f6bd086445b3/CarImage_638299624727581832_thumb_900_600.jpg?width=270
+540,540,شاهین,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/113cba4f-e26c-403f-ab68-398d9eca5f34/CarImage_638348807029412903_thumb_900_600.jpg?width=270
+541,541,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e5ffb0a3-e693-4115-bbbb-af9d7d29bac1/CarImage_638348804983876328_thumb_900_600.png?width=270
+542,542,کوییک,2 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3f8232b2-f38d-4a16-8ace-bb6afbd5ab2a/CarImage_638320139568394102_thumb_900_600.png?width=270
+543,543,پراید,2 روز پیش,1390,180000,SE,زنجان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ecea16f6-63b9-4688-8f5a-7d650ba3ab1e/CarImage_638373678661587995_thumb_900_600.jpg?width=270
+544,544,کوییک,2 روز پیش,1401,0,دنده ای,شیروان,333000000.0,/images/default-images/default-car-white.svg
+545,545,کوییک,2 روز پیش,1400,78000,دنده ای,قزوین,295000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bb736771-e5ca-4a50-bd71-dce21e0bfb43/CarImage_638373670771629949_thumb_900_600.jpg?width=270
+546,546,سیتروئن,2 روز پیش,1397,70000,اتوماتیک,تهران / سازمان آب,1495000000.0,/images/default-images/default-car-white.svg
+547,547,شاهین,2 روز پیش,1402,0,دنده ای,تهران / سعادت‌آباد,595000000.0,/images/default-images/default-car-white.svg
+548,548,پراید,2 روز پیش,1383,326000,دنده ای,تاکستان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b94dc966-b674-42ba-af58-ffa3e4b5f872/CarImage_638370606530913527_thumb_900_600.jpg?width=270
+549,549,کوییک,2 روز پیش,1400,22000,دنده ای,تهران / صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7ce47afc-de6c-4b9d-89b8-7305ad3ab3d8/CarImage_638373652416745145_thumb_900_600.jpg?width=270
+550,550,کوییک,2 روز پیش,1398,61000,دنده ای,تهران / کوی فردوس,285000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bd18db0e-47dd-4fff-aab0-a9f67856c7a9/CarImage_638373735960107149_thumb_900_600.jpg?width=270
+551,551,پراید,2 روز پیش,1385,380000,ساده,کرج / فردیس,110000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2b48cefd-ecd6-4979-bebd-41ce9e4acbb5/CarImage_638373622821565493_thumb_900_600.jpeg?width=270
+552,552,تیبا,2 روز پیش,1397,100000,EX,تهران / بلوار فردوس,,/images/default-images/default-car-white.svg
+553,553,کیا,2 روز پیش,1387,265000,دنده ای,تهران / میدان حر,235000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4097378a-86c9-4284-bcef-e6aa92ed61d5/CarImage_638373621962938060_thumb_900_600.jpg?width=270
+554,554,پراید,2 روز پیش,1386,195750,دنده ای,تهران / لویزان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b3abf1e6-47c9-4e11-93de-23f1b0186568/CarImage_638372952685208806_thumb_900_600.jpg?width=270
+555,555,تیبا,2 روز پیش,1397,99000,EX,تهران / سعادت‌آباد,270000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/888bff42-bfc2-4250-ada9-5e5066b0e3cf/CarImage_638373606245672373_thumb_900_600.jpg?width=270
+556,556,ساینا,2 روز پیش,1401,15500,دنده ای بنزینی,تهران / آرارات,,/images/default-images/default-car-white.svg
+557,557,کوییک,2 روز پیش,1400,16000,اتوماتیک,شیراز / تاچارا,,/images/default-images/default-car-white.svg
+558,558,کوییک,2 روز پیش,1401,0,دنده ای,تهران / امیریه,333000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2302b550-bf2b-4d40-9d8b-2881f8d6e952/CarImage_638373585880425723_thumb_900_600.jpg?width=270
+559,559,شاهین,2 روز پیش,1400,0,دنده ای,تهران / استخر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6055a500-f2a2-4691-8947-13182d635d0c/CarImage_638373561295410133_thumb_900_600.jpeg?width=270
+560,560,تیبا,2 روز پیش,1395,193000,SX دوگانه سوز,اهواز / شهرک آغاجری,235000000.0,/images/default-images/default-car-white.svg
+561,561,کوییک,2 روز پیش,1402,0,اتوماتیک,رباط کریم,425000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/19494021-cea7-4b31-ad8d-1e2214090703/CarImage_638373444745673158_thumb_900_600.jpg?width=270
+562,562,سیتروئن,2 روز پیش,2006,360000,اتوماتیک,تهران / هفت تیر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c55cc625-270d-4877-8b92-9234fbe8f38c/CarImage_638373726719556665_thumb_900_600.jpeg?width=270
+563,563,کیا,2 روز پیش,1388,111000,دنده ای,تبریز,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/da002537-92db-410c-97f1-b3dadde530de/CarImage_638373365502341160_thumb_900_600.jpeg?width=270
+564,564,پراید,2 روز پیش,1397,160000,SE,اسلام شهر,230000000.0,/images/default-images/default-car-white.svg
+565,565,شاهین,3 روز پیش,1402,0,CVT,کهکیلویه / دهدشت,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/44de3ebe-6494-43a0-9c9b-09e898f8d0c6/CarImage_638373329624872529_thumb_900_600.jpg?width=270
+566,566,پراید,3 روز پیش,1386,165000,ساده,مشهد / طبرسی,110000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2065cc4d-da75-438f-8952-99e654f864ba/CarImage_638373324470493757_thumb_900_600.jpg?width=270
+567,567,کوییک,3 روز پیش,1401,0,دنده ای,تهران / جلفا,337000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cc840859-4d1e-4dad-9283-3d6a3da3b477/CarImage_638367990177936875_thumb_900_600.jpg?width=270
+568,568,پراید,3 روز پیش,1395,120000,SE,شاهین شهر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f02a39c0-3600-4ea9-a2e0-9e886b87637c/CarImage_638373291440521895_thumb_900_600.jpg?width=270
+569,569,ساینا,3 روز پیش,1400,51000,دنده ای,چالوس,310000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ddebdf9e-3950-472f-80bf-08223e55ee2e/CarImage_638373299569454501_thumb_900_600.jpg?width=270
+570,570,کوییک,3 روز پیش,1402,10000,دنده ای,تهران / شمس‌آباد,354800000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ecd6041b-c39c-4662-9527-b7b67f044b0e/CarImage_638373289285965658_thumb_900_600.jpg?width=270
+571,571,چانگان,3 روز پیش,1398,60000,اتوماتیک,تهران / اختیاریه,815000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9b702e9a-ab33-4237-96d2-230e0a0ff202/CarImage_638373288766339649_thumb_900_600.jpeg?width=270
+572,572,ساینا,3 روز پیش,1401,27100,دنده ای بنزینی,اهواز / گلستان,,/images/default-images/default-car-white.svg
+573,573,پراید,3 روز پیش,1399,54000,SE,تهران / نارمک,265000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9352f285-2ff4-4522-8ec5-db7d0d92ea7a/CarImage_638373272682236193_thumb_900_600.jpg?width=270
+574,574,کیا,3 روز پیش,1387,260000,دنده ای,تهران / پاسداران,230000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6951d23d-58d2-4a0f-b7e4-f6b82ad10a98/CarImage_638373271824287431_thumb_900_600.jpg?width=270
+575,575,کوییک,3 روز پیش,1399,0,دنده ای,/ قمقم,260000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a19d2488-9579-41e6-9d5b-091d58d3f722/CarImage_638373271665400667_thumb_900_600.jpg?width=270
+576,576,شاهین,3 روز پیش,1402,0,دنده ای,تهران / لویزان,590000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3a2a1128-fdae-4376-a26f-8be7b2744e4f/CarImage_638373280242566045_thumb_900_600.jpg?width=270
+577,577,تیبا,3 روز پیش,1396,141000,SX بنزینی,تهران / تهران‌سر,230000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9aebbfd7-24b3-4318-a4e3-b5f92bb48abb/CarImage_638373254029276942_thumb_900_600.jpg?width=270
+578,578,پراید,3 روز پیش,1390,290000,SL,تهران / مجیدیه,155000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9263df58-f993-469f-915d-52eac1bd5a8e/CarImage_638373245824318710_thumb_900_600.jpg?width=270
+579,579,برلیانس,3 روز پیش,1396,138000,1.5 اتوماتیک,تهران / خلیج فارس,539000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/46dbfa9f-a079-4889-8650-110d66d86b5e/CarImage_638373244029355079_thumb_900_600.jpeg?width=270
+580,580,شاهین,3 روز پیش,1402,0,دنده ای,مشهد / گلشور,589000000.0,/images/default-images/default-car-white.svg
+581,581,کوییک,3 روز پیش,1401,0,اتوماتیک,کرج / جهان‌شهر,427000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/535be80f-6bb9-46d0-bf26-ffa73dfe0eee/CarImage_638373226720675790_thumb_900_600.jpeg?width=270
+582,582,تیبا,3 روز پیش,1400,82000,EX,قم / پردیسان,300000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/838edb0b-7f05-4a5c-858b-e2f7a4126e0e/CarImage_638373226689415406_thumb_900_600.jpg?width=270
+583,583,کوییک,3 روز پیش,1402,0,دنده ای,تهران / تهرانپارس شرقی,,/images/default-images/default-car-white.svg
+584,584,کوییک,3 روز پیش,1400,0,دنده ای,تهران / تهرانپارس غربی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f8d5d7a3-66e7-436c-a803-1a86259e71e1/CarImage_638373225170763326_thumb_900_600.jpeg?width=270
+585,585,پراید,3 روز پیش,1393,224000,SE,تهران / بهارستان,210000000.0,/images/default-images/default-car-white.svg
+586,586,کوییک,3 روز پیش,1401,36000,دنده ای,تهران / 17 شهریور,310000000.0,/images/default-images/default-car-white.svg
+587,587,پراید,3 روز پیش,1398,50000,SE,ساوجبلاغ,255000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5b0d8a86-13b5-455c-a16e-0c2d2f7bb4c0/CarImage_638373210923359152_thumb_900_600.jpg?width=270
+588,588,پراید,3 روز پیش,1398,38400,SE,کاشان,265000000.0,/images/default-images/default-car-white.svg
+589,589,کوییک,3 روز پیش,1401,0,دنده ای,تهران / تهرانسر,335000000.0,/images/default-images/default-car-white.svg
+590,590,پراید,3 روز پیش,1379,300000,دنده ای,تهران / سیدخندان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eb668781-9732-42af-82b6-8de8c20aeee1/CarImage_638373195368668742_thumb_900_600.jpg?width=270
+591,591,کوییک,3 روز پیش,1402,0,اتوماتیک,کرمان,,/images/default-images/default-car-white.svg
+592,592,پراید,3 روز پیش,1388,600000,دنده ای,تهران / حکیمیه,180000000.0,/images/default-images/default-car-white.svg
+593,593,پراید,3 روز پیش,1393,180000,SE,اصفهان / دروازه تهران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/09eda011-63f6-4219-ad53-264cf9a4fe73/CarImage_638373189793029479_thumb_900_600.jpg?width=270
+594,594,کوییک,3 روز پیش,1399,15000,دنده ای,تهران / پیروزی,305000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a8462586-ab1e-4fd9-90b5-eed025eb4de3/CarImage_638373181454162933_thumb_900_600.jpg?width=270
+595,595,کوییک,3 روز پیش,1400,26000,دنده ای,کبودرآهنگ,,/images/default-images/default-car-white.svg
+596,596,پراید,3 روز پیش,1396,160000,SE,گنبد کاووس / گنبد کاووس,,/images/default-images/default-car-white.svg
+597,597,کوییک,3 روز پیش,1402,0,دنده ای,تهران / نارمک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6b044121-702d-4e48-a764-1353b3797b27/CarImage_638373177953918613_thumb_900_600.jpg?width=270
+598,598,کیا,3 روز پیش,1387,260000,دنده ای,تهران / اختیاریه,230000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/811a98a9-4209-43d5-b938-110db3de4a5e/CarImage_638373176388475593_thumb_900_600.jpg?width=270
+599,599,کیا,3 روز پیش,1389,230000,دنده ای,قزوین,295000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9f704c3e-3f62-4a2a-941d-119bb193e1a2/CarImage_638373175918298368_thumb_900_600.jpg?width=270
+600,600,برلیانس,3 روز پیش,1396,49050,1.5 اتوماتیک,تهران / جلال آل احمد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/86da8951-df36-4299-9880-dfd761f9cf23/CarImage_638373171289864175_thumb_900_600.jpg?width=270
+601,601,شاهین,3 روز پیش,1402,0,دنده ای,مراغه,600000000.0,/images/default-images/default-car-white.svg
+602,602,کیا,3 روز پیش,1397,0,2.0 لیتر آپشنال,تهران / اکباتان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cb5a3fc0-df45-4649-a1f8-03ea3e7ee66e/CarImage_638369380509244526_thumb_900_600.jpeg?width=270
+603,603,شاهین,3 روز پیش,1402,0,دنده ای,شیراز / زرهی,587000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cd936e3f-7fe9-4372-8805-7b32925c248b/CarImage_638373162704775858_thumb_900_600.jpg?width=270
+604,604,پراید,3 روز پیش,1386,346000,دنده ای,کرج / مصباح,130000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/77878d7c-1e99-4310-8f39-6e5ff6989633/CarImage_638373161794537014_thumb_900_600.jpg?width=270
+605,605,پراید,3 روز پیش,1385,340000,دنده ای,کرج / مارلیک,120000000.0,/images/default-images/default-car-white.svg
+606,606,برلیانس,3 روز پیش,1397,90000,1.65 دنده ای,همدان / بازار بزرگ خودرو,575000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/575f91c7-732f-4fbd-bbb3-8dc781b88c0c/CarImage_638354715904539950_thumb_900_600.jpg?width=270
+607,607,زوتی,3 روز پیش,1397,119000,1.6 لیتر اتوماتیک,تهران / آزادی,569000000.0,/images/default-images/default-car-white.svg
+608,608,تیبا,3 روز پیش,1401,42000,SX بنزینی,لاهیجان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fc0a094d-99b3-4700-a5f4-27630155dde5/CarImage_638373149155239452_thumb_900_600.jpg?width=270
+609,609,کیا,3 روز پیش,1390,250000,دنده ای,مشهد / راهنمایی,248000000.0,/images/default-images/default-car-white.svg
+610,610,پراید,3 روز پیش,1386,278000,دنده ای,نور,130000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ef6019c1-39d0-4c65-acdf-745f4737202b/CarImage_638360096226294719_thumb_900_600.jpg?width=270
+611,611,چانگان,3 روز پیش,2023,0,تیپ 3,کرج / عظیمیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ecbdb0ea-5ce4-476c-a477-7320d4f22598/CarImage_638342737290423078_thumb_900_600.jpeg?width=270
+612,612,کوییک,3 روز پیش,1399,83000,دنده ای,شهریار,287000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/857cc963-3ebd-46a8-972c-e740e0028c78/CarImage_638373142951712574_thumb_900_600.jpeg?width=270
+613,613,پراید,3 روز پیش,1398,69000,SE,شهریار,249000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c360be08-5f23-447b-ae9f-968deb540ccb/CarImage_638373141152894802_thumb_900_600.jpg?width=270
+614,614,کیا,3 روز پیش,1397,133000,1.6 لیتر آپشنال,تهران / یوسف‌آباد,1080000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6cc8196b-53cb-410f-aebf-1e972e86fb17/CarImage_638373137693617791_thumb_900_600.jpeg?width=270
+615,615,چانگان,3 روز پیش,1396,65000,اتوماتیک,اصفهان / بزرگمهر,770000000.0,/images/default-images/default-car-white.svg
+616,616,کوییک,3 روز پیش,1400,63000,دنده ای,تهران / ایرانشهر,298000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9455cf76-4235-415f-b4a3-dbd9cc62213d/CarImage_638373136289612812_thumb_900_600.jpg?width=270
+617,617,شاهین,3 روز پیش,1400,20700,دنده ای,تهران / زرگنده,525000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e35dc0df-230b-4aa5-b791-0cbd8312c47e/CarImage_638373195286569286_thumb_900_600.jpg?width=270
+618,618,شاهین,3 روز پیش,1401,28000,دنده ای,ساری,540000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5b43e0b8-75fc-44ac-899b-00875d6420e2/CarImage_638373131086059797_thumb_900_600.jpg?width=270
+619,619,پراید,3 روز پیش,1384,287000,دنده ای,تهران / مهرآباد جنوبی,126000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/49b7f485-972f-4c58-991f-05ee0f942a24/CarImage_638373125695166850_thumb_900_600.jpg?width=270
+620,620,تیبا,3 روز پیش,1393,124000,SX,تهران / مرزداران,245000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f298f15b-f14f-47d2-84be-bb4c611a54b9/CarImage_638373224233420371_thumb_900_600.jpg?width=270
+621,621,کیا,3 روز پیش,1396,82000,2.0 لیتر آپشنال,ساری,1350000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/13946256-93cd-4d69-a46e-4c53cafe845f/CarImage_638374016055948136_thumb_900_600.jpg?width=270
+622,622,ساینا,3 روز پیش,1399,0,دنده ای,تهران / خانی‌آباد نو,310000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/afab22e9-d2d9-43ed-bf24-1d990f0c253e/CarImage_638373109767598951_thumb_900_600.jpg?width=270
+623,623,زوتی,3 روز پیش,1398,106000,1.6 لیتر اتوماتیک,شهریار,560000000.0,/images/default-images/default-car-white.svg
+624,624,شاهین,3 روز پیش,1400,47000,دنده ای,اصفهان / خرم,495000000.0,/images/default-images/default-car-white.svg
+625,625,شاهین,3 روز پیش,1401,0,دنده ای,تهران / مجیدآباد,547000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c8954388-ef6b-4560-89bd-30618eaa4303/CarImage_638373084704707389_thumb_900_600.jpg?width=270
+626,626,پراید,3 روز پیش,1393,0,SE,تهران / پونک,,/images/default-images/default-car-white.svg
+627,627,کوییک,3 روز پیش,1401,0,اتوماتیک,تهران / ستارخان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d2c23d81-4cce-4dc4-a807-e0c0862a0ffa/CarImage_638373082032801070_thumb_900_600.jpeg?width=270
+628,628,شاهین,3 روز پیش,1402,0,دنده ای,تهران / فاطمی,598000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d0478a7c-256a-4d57-a1e0-a1b90633f42e/CarImage_638372048191181023_thumb_900_600.jpeg?width=270
+629,629,پراید,3 روز پیش,1391,241000,EX,تهران / تهرانپارس شرقی,174000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/803827d1-28bd-4902-8f15-ecde1355a174/CarImage_638373073934143811_thumb_900_600.jpg?width=270
+630,630,کوییک,3 روز پیش,1401,50000,دنده ای,بابل,308000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1084ca4c-39e6-4e76-9a32-558e61618264/CarImage_638373073128875639_thumb_900_600.jpeg?width=270
+631,631,پراید,3 روز پیش,1385,280000,دنده ای,کرج / حصارک,89000000.0,/images/default-images/default-car-white.svg
+632,632,کوییک,3 روز پیش,1402,0,دنده ای,قزوین,355000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/91f033a9-9042-4365-b4c7-22a76eba9911/CarImage_638373062271743605_thumb_900_600.jpeg?width=270
+633,633,تیبا,3 روز پیش,1396,137000,EX,اصفهان / امیریه,239000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/87be2e61-0119-4f7a-aef3-6c8eefb45689/CarImage_638373054675130616_thumb_900_600.jpg?width=270
+634,634,پراید,3 روز پیش,1394,170000,SE,اصفهان / ابر,207000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3d3c901c-d965-4c3f-99fd-fdfb5c12a4d4/CarImage_638373052665273882_thumb_900_600.jpg?width=270
+635,635,پراید,3 روز پیش,1396,64000,SE,تهران / سهروردی,240000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/36151ae1-4a7a-48e4-b937-2c7efd73b016/CarImage_638373045039596379_thumb_900_600.jpg?width=270
+636,636,ساینا,3 روز پیش,1402,0,اتوماتیک,شیراز / زرهی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5bb89a6c-f1c4-4651-8a12-5cd6046ac119/CarImage_638373039122350185_thumb_900_600.jpeg?width=270
+637,637,پراید,3 روز پیش,1395,173000,SE,تهران / عباس‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/552f338e-a612-407f-b2ab-41fba5dabf8a/CarImage_638373037250406616_thumb_900_600.jpg?width=270
+638,638,پراید,3 روز پیش,1402,0,SE,تهران / نارمک,,/images/default-images/default-car-white.svg
+639,639,کوییک,3 روز پیش,1401,36000,دنده ای,تهران / آهنگ,317000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3ec05bd7-d350-4585-98c9-7ab9f39d2834/CarImage_638373024140133055_thumb_900_600.jpg?width=270
+640,640,شاهین,3 روز پیش,1402,0,دنده ای,اسلام شهر,605000000.0,/images/default-images/default-car-white.svg
+641,641,چانگان,3 روز پیش,1396,80000,اتوماتیک,نور,740000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8dd909eb-6ad6-4837-94b3-fe0734b911a2/CarImage_638373017989820137_thumb_900_600.jpeg?width=270
+642,642,پراید,3 روز پیش,1387,458000,ساده,تهران / جی,134000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eeb4cd44-80e7-439e-9850-1c987c377380/CarImage_638373017949561032_thumb_900_600.jpg?width=270
+643,643,کوییک,3 روز پیش,1401,0,اتوماتیک,تهران / سعادت‌آباد,420000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e38d47c6-191a-4928-adf1-5934eb29ef71/CarImage_638363630899793515_thumb_900_600.jpg?width=270
+644,644,کیا,3 روز پیش,1396,98000,2.0 لیتر ساده,تهران / زعفرانیه,1240000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4778e041-ae36-4e79-a862-8af0b97b3c61/CarImage_638373012810284755_thumb_900_600.jpeg?width=270
+645,645,کوییک,3 روز پیش,1402,0,اتوماتیک,تهران / جمهوری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e8cb1109-fee5-47a5-b25d-5d12e1126ac3/CarImage_638373006915692195_thumb_900_600.jpg?width=270
+646,646,سیتروئن,3 روز پیش,1387,393000,2.0 لیتر SX,تهران / صادقیه,380000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4889237f-41b1-4e90-a76f-8a441fa4b5e8/CarImage_638372999696503988_thumb_900_600.jpeg?width=270
+647,647,تیبا,3 روز پیش,1395,70952,SX بنزینی,تهران / کهریزک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/953ec882-ab4a-43c6-954a-dff6f26ca288/CarImage_638373026261461051_thumb_900_600.jpg?width=270
+648,648,زوتی,3 روز پیش,2014,219000,اتوماتیک,لاهیجان,550000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9c9f53f8-62c8-41dc-a8b6-fea75f133818/CarImage_638372988795208769_thumb_900_600.jpg?width=270
+649,649,شاهین,3 روز پیش,1402,0,دنده ای,کرج / گلشهر,598000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9ff13923-7443-42ff-8aaf-779dac9166e5/CarImage_638372987405426142_thumb_900_600.jpg?width=270
+650,650,پراید,3 روز پیش,1397,168000,SE,تهران / نظام‌آباد,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eb01f1e7-e04d-44c3-9925-355c5feed077/CarImage_638372987080470534_thumb_900_600.jpg?width=270
+651,651,پراید,3 روز پیش,1376,0,دنده ای,نکا,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5ea10490-47a0-448c-9137-e1cb7d2e3a74/CarImage_638372983505929776_thumb_900_600.jpg?width=270
+652,652,کیا,3 روز پیش,1397,140000,2.0 لیتر آپشنال,تهران / سعادت آباد,1370000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b760a300-4a40-42a3-80e3-354637ff4001/CarImage_638372978791738392_thumb_900_600.jpg?width=270
+653,653,پراید,3 روز پیش,1388,0,دنده ای,اصفهان / بهارستان,,/images/default-images/default-car-white.svg
+654,654,برلیانس,3 روز پیش,1397,62800,1.65 اتوماتیک,تهران / گیشا (کوی نصر),688000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a68c54a6-863e-4799-82b1-c8093ac6dc8d/CarImage_638373077154079500_thumb_900_600.jpeg?width=270
+655,655,شاهین,3 روز پیش,1402,0,دنده ای,تهران / پیروزی,589000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6ad69286-40e5-4b4a-af71-93817387c6df/CarImage_638372967249456189_thumb_900_600.jpeg?width=270
+656,656,کیا,3 روز پیش,1398,41500,2.0 لیتر آپشنال,بابل,1550000000.0,/images/default-images/default-car-white.svg
+657,657,پراید,3 روز پیش,1396,120000,SE,نور,240000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8836e7d1-7a0b-484f-98d8-71f79041e023/CarImage_638372959005398207_thumb_900_600.jpg?width=270
+658,658,تیبا,3 روز پیش,1399,86900,EX,شیراز / شهرک جماران,272000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6f1b0e42-105e-4851-b3f6-e32d7d221662/CarImage_638372956388548930_thumb_900_600.jpg?width=270
+659,659,کوییک,3 روز پیش,1401,10000,دنده ای,تهران / آرژانتین,327000000.0,/images/default-images/default-car-white.svg
+660,660,چانگان,3 روز پیش,1397,80000,اتوماتیک,کرج / مهرویلا,785000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/97d90464-7af3-40d6-8c72-798722565283/CarImage_638372949600456047_thumb_900_600.jpg?width=270
+661,661,پراید,3 روز پیش,1395,132000,SE,تهران / آرژانتین,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6167e97f-cf70-42bc-85ec-a2833977c0dc/CarImage_638372949530408101_thumb_900_600.jpg?width=270
+662,662,کیا,3 روز پیش,1397,126000,2.0 لیتر آپشنال,تهران / الهیه,1380000000.0,/images/default-images/default-car-white.svg
+663,663,کوییک,3 روز پیش,1401,0,دنده ای,ساوه,328000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dfce4a76-2d64-4e2c-85e9-3ea307bb615d/CarImage_638372922838547667_thumb_900_600.jpg?width=270
+664,664,کوییک,3 روز پیش,1400,0,دنده ای,شمیرانات,307000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/19e8c1bc-c518-4c89-805d-677c944f967a/CarImage_638372922260529961_thumb_900_600.jpeg?width=270
+665,665,سیتروئن,3 روز پیش,2011,170000,اتوماتیک,تهران / ابتدای خیابان شهید بهشتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1bacba5d-0d65-4ecd-a12f-aac6f4f2539a/CarImage_638314194867333132_thumb_900_600.jpeg?width=270
+666,666,کوییک,3 روز پیش,1400,0,دنده ای,کرمانشاه,,/images/default-images/default-car-white.svg
+667,667,تیبا,3 روز پیش,1395,90000,EX,شهریار,239000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0099137a-5642-4824-8aaf-bde5cdc60030/CarImage_638373064297475850_thumb_900_600.jpg?width=270
+668,668,ساینا,3 روز پیش,1399,0,دنده ای,تهران / یوسف‌آباد,305000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b09e6a67-4126-4a25-b3db-8520fd8e6697/CarImage_638358605335508484_thumb_900_600.jpeg?width=270
+669,669,ساینا,3 روز پیش,1402,0,دنده ای بنزینی,کرج / مهرویلا,360000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/65181c21-087d-4890-936e-8742f0a36911/CarImage_638372901857925126_thumb_900_600.jpg?width=270
+670,670,پراید,3 روز پیش,1389,212000,SX,اصفهان / هشت بهشت,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bf9e18ec-7cb6-48fc-8706-ec4c4ad64ab0/CarImage_638372901091466965_thumb_900_600.jpg?width=270
+671,671,چانگان,3 روز پیش,2023,0,تیپ 2,تهران / ستارخان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/617e2261-1557-4aeb-aa30-f882633e37a4/CarImage_638372896095902010_thumb_900_600.jpg?width=270
+672,672,کوییک,3 روز پیش,1402,0,دنده ای,تهران / جردن,352000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/00f6bb56-b6df-46b1-ab44-0c6bc3e80239/CarImage_638372894763911669_thumb_900_600.jpg?width=270
+673,673,شاهین,3 روز پیش,1402,0,دنده ای,تهران / شهرک غرب,597000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/16b7166c-1587-41dc-8a01-3c8439bea20b/CarImage_638353859757765243_thumb_900_600.jpeg?width=270
+674,674,کوییک,3 روز پیش,1400,23000,دنده ای,تهران / فاطمی,315000000.0,/images/default-images/default-car-white.svg
+675,675,کیا,3 روز پیش,1397,94000,2.0 لیتر آپشنال,تهران / 17 شهریور,1415000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dd18a22a-4229-4b0b-ba65-bcecab4812be/CarImage_638372886127283788_thumb_900_600.jpeg?width=270
+676,676,شاهین,3 روز پیش,1402,0,دنده ای,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fb1715a1-81b6-4fd6-a579-85ec7aa0d237/CarImage_638372885622813603_thumb_900_600.jpg?width=270
+677,677,ساینا,3 روز پیش,1402,0,دنده ای گازسوز,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6405d800-2799-4e28-be4d-24649ef85c26/CarImage_638372884098066867_thumb_900_600.jpg?width=270
+678,678,کوییک,3 روز پیش,1402,0,دنده ای,تهران / آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/378d2b4f-b7dc-4280-934a-0fc26d01fa7b/CarImage_638372881964777262_thumb_900_600.jpg?width=270
+679,679,کیا,3 روز پیش,1396,88000,2.0 لیتر ساده,تهران / سعادت آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ec94ffaa-b0aa-431c-9071-31d6d13ff3e4/CarImage_638372878059020508_thumb_900_600.jpeg?width=270
+680,680,پراید,3 روز پیش,1382,350000,دنده ای,رباط کریم,73000000.0,/images/default-images/default-car-white.svg
+681,681,چانگان,3 روز پیش,2023,0,تیپ 3,تهران / جمهوری,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fe51e8b9-6cf5-4b4b-bc23-ffba00935b70/CarImage_638372869058051965_thumb_900_600.jpg?width=270
+682,682,پراید,3 روز پیش,1399,39000,SE,تهران / پاسداران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/51c3d7df-d770-4993-ad65-c1469f8f5037/CarImage_638372864041696843_thumb_900_600.jpeg?width=270
+683,683,پراید,3 روز پیش,1397,95000,SE,قزوین,252000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/da3605e6-86dc-4e4f-ba32-18a426c8ab68/CarImage_638370698392084231_thumb_900_600.jpg?width=270
+684,684,پراید,3 روز پیش,1387,272000,دنده ای,تهران / سیدخندان,153000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9eecad98-e700-4f7d-90dd-27e8b7a960d4/CarImage_638372861687800244_thumb_900_600.jpg?width=270
+685,685,کوییک,3 روز پیش,1401,21000,دنده ای,تهران / 17 شهریور,318000000.0,/images/default-images/default-car-white.svg
+686,686,ساینا,3 روز پیش,1397,91000,دنده ای,ری,275000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b2cf3666-658e-472d-af39-8664867f1cbd/CarImage_638372856735311869_thumb_900_600.jpg?width=270
+687,687,ساینا,3 روز پیش,1402,0,دنده ای بنزینی,اصفهان / چهار باغ عباسی,,/images/default-images/default-car-white.svg
+688,688,شاهین,3 روز پیش,1402,0,دنده ای,رامسر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/db708c58-6711-4d73-a8d3-ead17e7bb2b7/CarImage_638372852286088867_thumb_900_600.png?width=270
+689,689,چانگان,3 روز پیش,2023,0,تیپ 3,تهران / نیاوران,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5e0f4cfb-9216-44e3-9759-05ded2bd5490/CarImage_638339177991720072_thumb_900_600.jpg?width=270
+690,690,کوییک,3 روز پیش,1400,31000,دنده ای,تهران / شهرک غرب,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5964d59a-0c7c-4058-ae18-454962651052/CarImage_638372850928472749_thumb_900_600.jpg?width=270
+691,691,کیا,3 روز پیش,1395,124000,2.0 لیتر ساده,تهران / جمهوری,1060000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4328efe0-4d41-4859-a543-56af1718a986/CarImage_638372883137402191_thumb_900_600.jpeg?width=270
+692,692,شاهین,3 روز پیش,1401,0,دنده ای,همدان,555000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6fded392-a399-4a58-bfa9-9b10b52d955c/CarImage_638372848006029516_thumb_900_600.jpg?width=270
+693,693,تیبا,3 روز پیش,1393,109000,SX,شمیرانات,245000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8481b2f5-3ccf-4acf-adaa-d3abccf68a26/CarImage_638372847027957724_thumb_900_600.jpeg?width=270
+694,694,کوییک,3 روز پیش,1402,0,دنده ای,تهران / شمس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8dfec1e3-0299-4e00-b29c-1bd1ff7bc297/CarImage10542205_638220084010760513_thumb_900_600.jpeg?width=270
+695,695,چانگان,3 روز پیش,2023,0,تیپ 3,اصفهان / بلوار آتشگاه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dcfec644-a995-474d-bbcc-244a2b023051/CarImage_638372844514724691_thumb_900_600.jpeg?width=270
+696,696,برلیانس,3 روز پیش,1397,120000,1.65 اتوماتیک,ساوه,675000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/73c3d9bd-2b1f-41f7-b183-83d29c1b9437/CarImage_638372838614821376_thumb_900_600.jpeg?width=270
+697,697,کیا,3 روز پیش,1397,115000,2.0 لیتر آپشنال,اصفهان / بلوار آتشگاه,1320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a65e64f5-7e59-4e7c-9f41-109ce08a6dd1/CarImage_638372837660380411_thumb_900_600.jpeg?width=270
+698,698,پراید,3 روز پیش,1396,88000,SE,تهران / ستارخان,247000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3bee1cd9-3413-49a7-8aa5-d034270ba02b/CarImage_638372836600019339_thumb_900_600.jpg?width=270
+699,699,پراید,3 روز پیش,1402,0,SE,تهران / نارمک جنوبی,,/images/default-images/default-car-white.svg
+700,700,کیا,3 روز پیش,1396,120000,2.0 لیتر آپشنال,اصفهان / بلوار آتشگاه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/708bcf29-f9dd-4546-b90c-0a6e4a00d5c6/CarImage_638372835934293011_thumb_900_600.jpeg?width=270
+701,701,پراید,3 روز پیش,1381,400000,دنده ای,کرج / شهرک البرز,,/images/default-images/default-car-white.svg
+702,702,تیبا,3 روز پیش,1399,43000,EX,اهواز / باهنر,295000000.0,/images/default-images/default-car-white.svg
+703,703,سیتروئن,3 روز پیش,1386,440000,2.0 لیتر SX,تهران / سیزده آبان,317000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e5f67162-6158-4757-871a-50546803614c/CarImage_638372822955546957_thumb_900_600.jpg?width=270
+704,704,کوییک,3 روز پیش,1402,0,اتوماتیک,تهران / آجودانیه,438000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ccc33702-a70d-437b-878f-47947e04bf44/CarImage_638372822640057090_thumb_900_600.jpeg?width=270
+705,705,ساینا,3 روز پیش,1402,0,دنده ای گازسوز,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e721f5e0-1149-45e1-9d4a-a7c585e409ed/CarImage_638360934236415348_thumb_900_600.jpeg?width=270
+706,706,کوییک,3 روز پیش,1402,0,اتوماتیک,تهران / شمس‌آباد,429000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/617d2757-5a70-497d-b477-ea387a363746/CarImage_638372817319790326_thumb_900_600.jpg?width=270
+707,707,شاهین,3 روز پیش,1402,0,CVT,تهران / جردن,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c8e2e603-de45-4d7a-a23a-77bbd87e80e6/CarImage_638372816339319628_thumb_900_600.jpg?width=270
+708,708,کوییک,3 روز پیش,1401,0,دنده ای,تهران / صادقیه,320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6c7bfd92-300b-4111-80bc-f14669ab4c77/CarImage_638372815354434595_thumb_900_600.jpg?width=270
+709,709,تیبا,3 روز پیش,1393,194000,SX بنزینی,تهران / شهرک آزادی,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/20955b44-2b05-4ec8-b149-d1a39e51fbee/CarImage_638375436288765401_thumb_900_600.jpg?width=270
+710,710,چانگان,3 روز پیش,1397,60000,اتوماتیک,تهران / ازگل,690000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f26e0c46-848a-4962-afa7-abd6427ab5be/CarImage_638372809725463602_thumb_900_600.jpg?width=270
+711,711,سیتروئن,3 روز پیش,1388,125000,2.0 لیتر SX,تهران / امیرآباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/795536f4-eec3-4242-8516-2600a6815afb/CarImage_638353926670452140_thumb_900_600.jpg?width=270
+712,712,کیا,3 روز پیش,1397,44000,2.0 لیتر آپشنال,تهران / گیشا (کوی نصر),1450000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9073ae87-9b32-49f6-8d28-bdeacad3f748/CarImage_638372832199219347_thumb_900_600.jpg?width=270
+713,713,کوییک,3 روز پیش,1402,0,دنده ای,تهران / سیدخندان,338000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/13cb3567-cd79-40ec-9bb6-c7e66bc71c00/CarImage_638372790907717771_thumb_900_600.jpg?width=270
+714,714,سیتروئن,3 روز پیش,1385,144000,2.0 لیتر SX,سنندج,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6a5ec406-6b57-4600-a15e-1a6bc4cba883/CarImage_638372783939886107_thumb_900_600.jpg?width=270
+715,715,پراید,3 روز پیش,1395,90000,SE,تهران / پاسداران,235000000.0,/images/default-images/default-car-white.svg
+716,716,ساینا,3 روز پیش,1400,39000,دنده ای بنزینی,تهران / دهکده المپیک,310000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bf094fe6-f444-4ce7-875d-f031e3f8e742/CarImage_638372762678417337_thumb_900_600.jpg?width=270
+717,717,کوییک,3 روز پیش,1401,24000,اتوماتیک,تهران / حکیمیه,406000000.0,/images/default-images/default-car-white.svg
+718,718,پراید,3 روز پیش,1395,59000,SE,تهران / نظام‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/60f20511-f1c6-45a4-913e-9d7fcba543ec/CarImage_638367533627267791_thumb_900_600.jpg?width=270
+719,719,کوییک,3 روز پیش,1401,20000,دنده ای,تهران / 17 شهریور,315000000.0,/images/default-images/default-car-white.svg
+720,720,تیبا,3 روز پیش,1395,141000,SX بنزینی,اصفهان / مدرس,252000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cca58cd0-346e-4d3b-b730-aa0da7ddcfc2/CarImage_638372709457683218_thumb_900_600.jpg?width=270
+721,721,تیبا,3 روز پیش,1393,190000,SX,بجنورد,255000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7946c352-ee1d-402c-a0e9-ae5688d2feeb/CarImage_638372592655765119_thumb_900_600.jpg?width=270
+722,722,ساینا,3 روز پیش,1402,12000,دنده ای بنزینی,تهران / دولت‌آباد,330000000.0,/images/default-images/default-car-white.svg
+723,723,شاهین,3 روز پیش,1400,45000,دنده ای,نجف آباد,515000000.0,/images/default-images/default-car-white.svg
+724,724,پراید,4 روز پیش,1382,270000,دنده ای,شهریار,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/78b0355e-0c29-4d13-b7f1-f2d456c3705a/CarImage_638372481173409836_thumb_900_600.jpg?width=270
+725,725,کیا,4 روز پیش,1396,170000,2.0 لیتر آپشنال,آمل,1130000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d42edfa8-99ea-42d0-b942-29fc3612501a/CarImage_638372480722451666_thumb_900_600.jpeg?width=270
+726,726,پراید,4 روز پیش,1379,450000,دنده ای,نظرآباد,85000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fbc04b02-9c6f-4665-853b-b77cd51afd22/CarImage_638372476524755462_thumb_900_600.jpg?width=270
+727,727,کیا,4 روز پیش,1397,27000,2.0 لیتر آپشنال,تهران / اقدسیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fc354b43-47aa-4504-8a15-250985362a2a/CarImage_638372439742011481_thumb_900_600.jpeg?width=270
+728,728,پراید,4 روز پیش,1388,350000,دنده ای,ماسال,175000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a88c5ae6-d67c-4593-bf04-2a506ae09c07/CarImage_638372434725723633_thumb_900_600.jpg?width=270
+729,729,ساینا,4 روز پیش,1398,49500,دنده ای,اصفهان / شهرک نگین,296000000.0,/images/default-images/default-car-white.svg
+730,730,کوییک,4 روز پیش,1400,41000,دنده ای,شاهرود,315000000.0,/images/default-images/default-car-white.svg
+731,731,پراید,4 روز پیش,1380,280000,دنده ای,کرمانشاه / 22 بهمن,115000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e0f73766-208f-41b4-a416-6a39fff2018d/CarImage_638372396066143255_thumb_900_600.jpg?width=270
+732,732,پراید,4 روز پیش,1382,300000,دنده ای,اصفهان / ارغوانیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f5b2b775-8af8-4fdd-9aec-2283a5ca0c2b/CarImage_638372391340163759_thumb_900_600.jpg?width=270
+733,733,پراید,4 روز پیش,1396,151000,SE,اسلام شهر,210000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/952b80fb-d238-469f-b244-581399ace930/CarImage_638372382523492533_thumb_900_600.jpg?width=270
+734,734,برلیانس,4 روز پیش,1396,172000,1.5 اتوماتیک,تهران / شهرک کیانشهر,520000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/393a234b-f540-49d4-a9d8-f6361c392e08/CarImage_638372378946133076_thumb_900_600.jpg?width=270
+735,735,پراید,4 روز پیش,1397,45000,SE,تبریز,252000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/190ae42e-d748-4b08-bc73-d55db34422ec/CarImage_638372375490467706_thumb_900_600.jpeg?width=270
+736,736,کیا,4 روز پیش,1385,203000,دنده ای,تهران / اراج,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8ed38020-ef16-40ad-bd53-1a25a2e826a3/CarImage_638372371923964407_thumb_900_600.jpg?width=270
+737,737,پراید,4 روز پیش,1383,315000,دنده ای,تهران / نصیرآباد,135000000.0,/images/default-images/default-car-white.svg
+738,738,پراید,4 روز پیش,1391,180000,EX,تهران / تهرانپارس غربی,165000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/78780688-440e-4b38-ae79-a61ece21a58a/CarImage_638372355051506568_thumb_900_600.jpeg?width=270
+739,739,شاهین,4 روز پیش,1400,56000,دنده ای,تهران / نعمت‌آباد,500000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0c027619-248b-464e-815c-0ce3d944ee73/CarImage_638372365651455889_thumb_900_600.jpg?width=270
+740,740,تیبا,4 روز پیش,1397,0,SX بنزینی,تهران / رسالت,268000000.0,/images/default-images/default-car-white.svg
+741,741,تیبا,4 روز پیش,1394,150000,SX,کرج / مهرویلا,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b4545281-b4ba-412e-af73-ab54db6a788c/CarImage_638371447675931809_thumb_900_600.jpg?width=270
+742,742,کوییک,4 روز پیش,1400,52000,دنده ای,اصفهان / احمدآباد,305000000.0,/images/default-images/default-car-white.svg
+743,743,کیا,4 روز پیش,1397,40000,2.0 لیتر آپشنال,تهران / دروس,1425000000.0,/images/default-images/default-car-white.svg
+744,744,پراید,4 روز پیش,1390,370000,SL,رودسر,160000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/61d31a10-c72b-4e37-afb4-acc8030a2e3f/CarImage_638372333984592653_thumb_900_600.jpg?width=270
+745,745,پراید,4 روز پیش,1398,81000,SE,ری,252000000.0,/images/default-images/default-car-white.svg
+746,746,کوییک,4 روز پیش,1400,30000,دنده ای,تهران / سوهانک,308000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3154d723-1330-4f7c-8294-9a15b8d008e1/CarImage_638372326737289303_thumb_900_600.jpg?width=270
+747,747,چانگان,4 روز پیش,1398,33000,اتوماتیک,رشت / قلی پور,,/images/default-images/default-car-white.svg
+748,748,پراید,4 روز پیش,1389,0,دنده ای,تهران / جی,175000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/809c716d-4891-4f7f-8c34-1495bc7d6644/CarImage_638372322009179881_thumb_900_600.jpg?width=270
+749,749,چانگان,4 روز پیش,2015,250000,اتوماتیک,تبریز,615000000.0,/images/default-images/default-car-white.svg
+750,750,ساینا,4 روز پیش,1401,15800,دنده ای بنزینی,اصفهان / باقوشخانه,332000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b6b06376-23a8-4046-a9b5-13155c771f29/CarImage_638372462934226470_thumb_900_600.jpg?width=270
+751,751,چانگان,4 روز پیش,1398,39000,اتوماتیک,اردبیل,890000000.0,/images/default-images/default-car-white.svg
+752,752,پراید,4 روز پیش,1398,65000,SE,هشتگرد,260000000.0,/images/default-images/default-car-white.svg
+753,753,کوییک,4 روز پیش,1401,11150,دنده ای,تهران / آرژانتین,320000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/15243f5e-1f7c-4ff4-ae6e-7e6c21e5ff78/CarImage_638372299300036957_thumb_900_600.jpg?width=270
+754,754,کیا,4 روز پیش,1388,190000,دنده ای,کرج / گوهردشت,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3c5f73aa-c6f5-4cc7-a961-aab576d3b387/CarImage_638372290149910726_thumb_900_600.jpeg?width=270
+755,755,پراید,4 روز پیش,1398,79000,SE,تهران / فلاح,235000000.0,/images/default-images/default-car-white.svg
+756,756,چانگان,4 روز پیش,1397,70000,اتوماتیک,رشت / گاز,830000000.0,/images/default-images/default-car-white.svg
+757,757,تیبا,4 روز پیش,1391,133500,SX دوگانه سوز,تهران / افسریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/093b495f-d72f-487a-b1f4-84e0868f4534/CarImage_638372261801595676_thumb_900_600.jpg?width=270
+758,758,کوییک,4 روز پیش,1402,0,اتوماتیک,تهران / تهران‌سر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2f0df052-9e0f-4118-aba5-59683156a874/CarImage_638372260354934046_thumb_900_600.jpeg?width=270
+759,759,تیبا,4 روز پیش,1394,167000,EX,تهران / سلسبیل,200000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d71790a9-2493-48dc-b2b0-13836b295dd2/CarImage_638372259622875934_thumb_900_600.jpg?width=270
+760,760,شاهین,4 روز پیش,1402,0,دنده ای,تهران / تهرانپارس شرقی,600000000.0,/images/default-images/default-car-white.svg
+761,761,کیا,4 روز پیش,1397,53000,2.0 لیتر آپشنال,تهران / پاسداران,1365000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cc78b04b-bf3c-4874-9d9c-47b11296e5fd/CarImage_638372057520696420_thumb_900_600.jpeg?width=270
+762,762,پراید,4 روز پیش,1389,260000,دنده ای,خنداب,,/images/default-images/default-car-white.svg
+763,763,کوییک,4 روز پیش,1402,0,دنده ای,تهران / دانشگاه تهران,344000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/597c6f4e-7e90-4295-80b4-795aa3e3e915/CarImage_638372243473500587_thumb_900_600.jpg?width=270
+764,764,تیبا,4 روز پیش,1400,0,EX,کرج / گوهردشت,,/images/default-images/default-car-white.svg
+765,765,ساینا,4 روز پیش,1402,0,دنده ای بنزینی,همدان,355000000.0,/images/default-images/default-car-white.svg
+766,766,پراید,4 روز پیش,1384,400000,دنده ای,تهران / ابوذر (منطقه 15),,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6c944112-7b82-4003-87ff-b78bc2d16959/CarImage_638372223966058174_thumb_900_600.jpg?width=270
+767,767,چانگان,4 روز پیش,1397,60000,اتوماتیک,کرج / گلشهر,800000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4b4a0b41-95e1-497f-b517-47f472fe3faf/CarImage_638372219309992817_thumb_900_600.jpg?width=270
+768,768,کیا,4 روز پیش,1387,185000,دنده ای,تنکابن,255000000.0,/images/default-images/default-car-white.svg
+769,769,کیا,4 روز پیش,1395,95000,2.0 لیتر ساده,کرج / عظیمیه,1150000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/105e91f9-32f8-417a-8ae5-ba521db39142/CarImage_638372197447906143_thumb_900_600.jpg?width=270
+770,770,کیا,4 روز پیش,1397,590000,2.0 لیتر آپشنال,همدان / میدان جهاد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fa19d2bf-e735-42bd-aeef-9fe27acfe76b/CarImage10467568_638183606248254459_thumb_900_600.jpg?width=270
+771,771,کیا,4 روز پیش,1394,140000,2.0 لیتر ساده,تهران / بلوار آیت الله کاشانی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/3d61238a-7604-4f65-af3f-0541ea99a058/CarImage_638354102868693965_thumb_900_600.jpg?width=270
+772,772,کوییک,4 روز پیش,1402,13000,دنده ای,آمل,340000000.0,/images/default-images/default-car-white.svg
+773,773,کوییک,4 روز پیش,1402,0,دنده ای,تهران / ارامنه,347000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/82d1cf3b-c5a8-459b-8ce9-c1882adfb8d4/CarImage_638372162400302284_thumb_900_600.jpg?width=270
+774,774,تیبا,4 روز پیش,1393,124000,SX,تهران / مرزداران,245000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ca04b6b6-0b7b-419a-8e24-31dbafe32818/CarImage_638372159249977567_thumb_900_600.jpg?width=270
+775,775,کوییک,4 روز پیش,1399,62000,دنده ای,تهران / پاسداران,290000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e4445d83-d44b-41be-bc5b-72a20d0d1326/CarImage_638372152419693996_thumb_900_600.jpg?width=270
+776,776,چانگان,4 روز پیش,2023,0,تیپ 3,تهران / آزادی,,/images/default-images/default-car-white.svg
+777,777,پراید,4 روز پیش,1402,0,SE,قائم شهر,273000000.0,/images/default-images/default-car-white.svg
+778,778,کوییک,4 روز پیش,1402,0,دنده ای,بردسیر,360000000.0,/images/default-images/default-car-white.svg
+779,779,برلیانس,4 روز پیش,1397,57000,1.65 دنده ای,تهران / سهروردی,545000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8043f7e2-c665-4ddf-9209-6030aaa31ac9/CarImage_638373660227055954_thumb_900_600.jpg?width=270
+780,780,کوییک,4 روز پیش,1401,18300,دنده ای,تهران / جنت‌آباد جنوبی,325000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/81998dde-db69-40a7-a3ce-f9b0e5788f1f/CarImage_638372142086465903_thumb_900_600.jpg?width=270
+781,781,پراید,4 روز پیش,1376,444000,دنده ای,ملارد / ماهدشت,67000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1857549e-274f-4db2-82c3-d1b46f0fea99/CarImage_638372143441852976_thumb_900_600.jpg?width=270
+782,782,کوییک,4 روز پیش,1400,0,دنده ای,تهران / زاهد گیلانی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/88ee2221-064e-4844-9aa6-a57332497032/CarImage_638372144271408651_thumb_900_600.jpg?width=270
+783,783,پراید,4 روز پیش,1397,65000,SE,کرج / مهرشهر - فاز 1,255000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/378f9ebf-f027-4a47-9ae3-ee25006d9f1d/CarImage_638372133060299327_thumb_900_600.jpg?width=270
+784,784,کوییک,4 روز پیش,1402,0,دنده ای,کرج / باغستان,343000000.0,/images/default-images/default-car-white.svg
+785,785,کوییک,4 روز پیش,1402,0,دنده ای,بهشهر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/09e90a09-c648-4a93-ba2c-a670d2dd194a/CarImage_638372127665688340_thumb_900_600.jpg?width=270
+786,786,شاهین,4 روز پیش,1401,16000,دنده ای,قزوین,557000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d1daaca3-44c9-4ceb-9325-fa8ff7b28cae/CarImage_638372121179701608_thumb_900_600.jpg?width=270
+787,787,شاهین,4 روز پیش,1402,0,دنده ای,تهران / قیطریه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/99a5ff38-edcb-4ea6-9207-155a2450d0d6/CarImage_638372120003737129_thumb_900_600.png?width=270
+788,788,پراید,4 روز پیش,1399,0,SE,تهران / تهرانپارس غربی,258000000.0,/images/default-images/default-car-white.svg
+789,789,پراید,4 روز پیش,1385,35000,دنده ای,کرج / مشکین‌دشت,,/images/default-images/default-car-white.svg
+790,790,پراید,4 روز پیش,1391,855555,SL,مشهد / بلوار توس,180000000.0,/images/default-images/default-car-white.svg
+791,791,کوییک,4 روز پیش,1402,0,دنده ای,تهران / فلکه دوم صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ccd8647b-5abd-4380-bcbf-a64e6b717ec6/CarImage_638343547531976628_thumb_900_600.jpg?width=270
+792,792,پراید,4 روز پیش,1383,300000,دنده ای,زرین شهر,75000000.0,/images/default-images/default-car-white.svg
+793,793,پراید,4 روز پیش,1392,220000,EX,تهران / امیرآباد,,/images/default-images/default-car-white.svg
+794,794,شاهین,4 روز پیش,1401,53000,دنده ای,تهران / هنگام,530000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1ce637d7-b670-40db-a608-3288cf224ded/CarImage_638369386545398497_thumb_900_600.jpeg?width=270
+795,795,سیتروئن,4 روز پیش,1398,40000,اتوماتیک,اصفهان / بوستان ملت,1730000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ea53d27d-3239-4d30-93b9-37cd1900264a/CarImage_638372097725328640_thumb_900_600.jpeg?width=270
+796,796,پراید,4 روز پیش,1385,123000,دنده ای,تهران / بهجت‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b15c6ab5-15fb-49b2-914f-e178173e7478/CarImage_638372091723126473_thumb_900_600.jpeg?width=270
+797,797,شاهین,4 روز پیش,1402,0,دنده ای,تهران / پونک,,/images/default-images/default-car-white.svg
+798,798,پراید,4 روز پیش,1396,200000,SE,کرج / شهر جدید اندیشه,240000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6dad8bbf-63db-4cc3-b8fe-49ec3bfc45b8/CarImage_638374579606471124_thumb_900_600.jpg?width=270
+799,799,کیا,4 روز پیش,1394,80000,2.0 لیتر ساده,تهران / پیروزی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/74b3fbfe-54bc-4e29-8c73-da32b0d9612e/CarImage_638372082114268512_thumb_900_600.jpg?width=270
+800,800,کوییک,4 روز پیش,1402,0,اتوماتیک,نجف آباد,440000000.0,/images/default-images/default-car-white.svg
+801,801,شاهین,4 روز پیش,1402,0,دنده ای,تهران / نارمک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9f936d86-1bd2-42e6-8b33-5f412dfea941/CarImage_638372352410834847_thumb_900_600.jpg?width=270
+802,802,پراید,4 روز پیش,1399,93000,SE,کرج / کیانمهر,265000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ea5efe80-69a5-4176-8d52-8840292382b8/CarImage_638372065435343989_thumb_900_600.jpg?width=270
+803,803,پراید,4 روز پیش,1384,225000,دنده ای,رودسر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cc36c52c-8b71-4b3e-b2c8-ea0119cf411d/CarImage_638372064643353851_thumb_900_600.jpg?width=270
+804,804,کیا,4 روز پیش,1394,280000,2.0 لیتر ساده,تهران / اقدسیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4c56594d-ac59-4716-a89e-858d9cee9aee/CarImage_638372063798619533_thumb_900_600.jpg?width=270
+805,805,کوییک,4 روز پیش,1400,11000,دنده ای,تهران / سهروردی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/eb17508b-7435-40f3-92a9-0cd287294100/CarImage_638372057925769217_thumb_900_600.jpg?width=270
+806,806,پراید,4 روز پیش,1396,123200,SE,ماکو,,/images/default-images/default-car-white.svg
+807,807,کیا,4 روز پیش,1397,110000,2.0 لیتر آپشنال,تهران / جیحون,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/20227caa-3c9f-4cdc-8fda-b5ff5b88e270/CarImage_638372055986316493_thumb_900_600.jpeg?width=270
+808,808,کوییک,4 روز پیش,1400,50000,دنده ای,اصفهان / تالار,310000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/1d3a2835-aee8-4129-b626-f6aa2d3f2992/CarImage_638372055820060856_thumb_900_600.jpg?width=270
+809,809,پراید,4 روز پیش,1385,220000,دنده ای,زرین شهر,135000000.0,/images/default-images/default-car-white.svg
+810,810,پراید,4 روز پیش,1393,198000,SE,تهران / دولاب,180000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0cf48f7d-8257-481e-8ef9-0a4f90bff203/CarImage_638372054233999593_thumb_900_600.jpg?width=270
+811,811,کوییک,4 روز پیش,1402,0,دنده ای,تهران / سعادت آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fe4b6204-7537-4927-ac9d-17d044fdb257/CarImage_638358976217733255_thumb_900_600.jpg?width=270
+812,812,کوییک,4 روز پیش,1402,0,دنده ای,تهران / شمس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6d69fdd1-b028-46ae-a014-8630229dbb9a/CarImage10542565_638220113159136570_thumb_900_600.jpg?width=270
+813,813,پراید,4 روز پیش,1388,390000,دنده ای,تهران / چیتگر,154000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4d556877-03d8-4758-a87f-48590c3e5172/CarImage_638372045597391186_thumb_900_600.jpg?width=270
+814,814,شاهین,4 روز پیش,1402,0,دنده ای,تهران / شهرک راه آهن,520000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d5de7184-fede-4dbe-848a-6753f6609e16/CarImage10517647_638205570113419879_thumb_900_600.png?width=270
+815,815,پراید,4 روز پیش,1397,49000,SE,تهران / میدان خراسان,225000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8ccc4438-e381-4926-bc28-7d6bf06b1b74/CarImage_638372040718868356_thumb_900_600.jpg?width=270
+816,816,تیبا,4 روز پیش,1398,105000,EX,قزوین,276000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a0aae313-38b5-4ed3-a07e-b9ddbc63c223/CarImage_638372046018236759_thumb_900_600.jpg?width=270
+817,817,چانگان,4 روز پیش,2023,0,تیپ 3,تهران / عباس آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/76bbaaa4-3c9b-459a-8a25-2933a4df02d3/CarImage_638338247378148346_thumb_900_600.jpg?width=270
+818,818,پراید,4 روز پیش,1391,215742,SX,تهران / تهران‌سر,173000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e7ff59e1-d7f3-48a7-8b46-b00921ab6422/CarImage_638372018446951615_thumb_900_600.jpg?width=270
+819,819,پراید,4 روز پیش,1389,244000,SX,بندرعباس,160000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9ae7fc09-cfb3-4e75-8447-f713d6cde17d/CarImage_638372017118859063_thumb_900_600.jpg?width=270
+820,820,پراید,4 روز پیش,1392,107000,TL,تهران / اتابک,185000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6c55c3fc-3fbe-474a-bfc9-f1a3e9796654/CarImage_638372014817760203_thumb_900_600.jpg?width=270
+821,821,کوییک,4 روز پیش,1402,0,اتوماتیک,تهران / فلکه دوم صادقیه,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d810e3d7-8ee7-4075-a933-fce3e6a1864d/CarImage_638343544908750524_thumb_900_600.jpg?width=270
+822,822,شاهین,4 روز پیش,1402,0,دنده ای,اراک,588000000.0,/images/default-images/default-car-white.svg
+823,823,پراید,4 روز پیش,1382,320000,دنده ای,تهران / میدان خراسان,95000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8f12f429-7c33-406e-85d3-6e1a462a97fb/CarImage_638372004294700721_thumb_900_600.jpg?width=270
+824,824,ساینا,4 روز پیش,1400,21000,دنده ای,تهران / استاد معین,308000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6709d06e-783c-4ba1-b612-ce9669019e56/CarImage_638371990739910315_thumb_900_600.jpg?width=270
+825,825,ساینا,4 روز پیش,1402,0,دنده ای گازسوز,کرج / باغستان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cfaf1d67-95eb-4bfc-9b84-a96b16fa432b/CarImage_638371988453703374_thumb_900_600.jpg?width=270
+826,826,کیا,4 روز پیش,1394,217000,2.0 لیتر ساده,تهران / پاسداران,965000000.0,/images/default-images/default-car-white.svg
+827,827,کوییک,4 روز پیش,1402,0,دنده ای,تهران / پیروزی,365000000.0,/images/default-images/default-car-white.svg
+828,828,کوییک,4 روز پیش,1402,16000,دنده ای,تهران / تهرانپارس شرقی,340000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/553168c1-9e84-4a2a-88d1-07c80f46fd05/CarImage_638371981365259385_thumb_900_600.jpg?width=270
+829,829,سیتروئن,4 روز پیش,1397,0,اتوماتیک,تهران / یوسف‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e8033bd9-6a2a-4feb-9972-cd9b9e1360e2/CarImage_638371980943865679_thumb_900_600.jpg?width=270
+830,830,کوییک,4 روز پیش,1398,36000,دنده ای,تهران / تهران‌نو,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/51bc7678-701b-4440-92f2-34d2cdfca1fa/CarImage_638371978635234839_thumb_900_600.jpg?width=270
+831,831,شاهین,4 روز پیش,1401,0,دنده ای,تهران / صادقیه,504000000.0,/images/default-images/default-car-white.svg
+832,832,پراید,4 روز پیش,1399,100000,SE,اصفهان / خانه اصفهان,266000000.0,/images/default-images/default-car-white.svg
+833,833,کوییک,4 روز پیش,1401,13000,دنده ای,شمیرانات,340000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d9f88478-8a45-4e81-a20a-15de0b5cee5e/CarImage_638371969667394694_thumb_900_600.jpeg?width=270
+834,834,کیا,4 روز پیش,1397,76000,2.0 لیتر آپشنال,تهران / شهرک غرب,1250000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f9cc803a-456a-402e-8b5f-995fca180c83/CarImage_638371965678839320_thumb_900_600.jpeg?width=270
+835,835,پراید,4 روز پیش,1397,0,SE,تهران / خیابان شریعتی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/57c46f25-d2f8-4b41-93f8-63516e50e175/CarImage_638320121105790693_thumb_900_600.jpeg?width=270
+836,836,سیتروئن,4 روز پیش,1398,0,اتوماتیک,همدان / میدان پیشاهنگی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5e80c779-ca6a-4ddd-aea9-77a1f9b0e830/CarImage_638276452526766668_thumb_900_600.jpeg?width=270
+837,837,کیا,4 روز پیش,1397,60000,2.0 لیتر آپشنال,همدان / میدان پیشاهنگی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/5f8424f7-7a2b-4914-b19c-0dfa0ac59290/CarImage_638357343678960935_thumb_900_600.jpeg?width=270
+838,838,کوییک,4 روز پیش,1402,0,دنده ای,تهران / یوسف‌آباد,355000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d86ec016-dace-452e-915e-b135c330d42c/CarImage_638371966873710132_thumb_900_600.jpeg?width=270
+839,839,پراید,4 روز پیش,1381,300000,دنده ای,تهران / تجریش,97000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a42b468a-ea6c-45c5-8318-154a0de6d368/CarImage_638371949780152826_thumb_900_600.jpg?width=270
+840,840,پراید,4 روز پیش,1374,123456,دنده ای,تهران / شهرک غرب,85000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/51e20c38-35df-4df1-8873-575f2ee135ad/CarImage_638371949620020854_thumb_900_600.jpg?width=270
+841,841,کوییک,4 روز پیش,1402,0,دنده ای,اسلام شهر,346000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/29cc3535-abf1-491b-be6a-85e283b83708/CarImage_638371942787576347_thumb_900_600.jpg?width=270
+842,842,کوییک,4 روز پیش,1402,0,دنده ای,تهران / چهار راه قصر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/6cc64a6a-7120-4576-97a5-8d8edb063a95/CarImage_638329617037338116_thumb_900_600.png?width=270
+843,843,شاهین,4 روز پیش,1402,0,CVT,تهران / چهار راه قصر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9ad1a64b-e38b-4537-bc5b-0f88f354733e/CarImage_638351476292000526_thumb_900_600.jpeg?width=270
+844,844,شاهین,4 روز پیش,1402,0,دنده ای,تهران / چهار راه قصر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ae87a59c-8ae3-47ab-b7c9-88f091775b8e/CarImage10608931_638257021738330871_thumb_900_600.jpeg?width=270
+845,845,کیا,4 روز پیش,1396,59000,2.0 لیتر آپشنال,تهران / آرژانتین,1330000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ebd71403-6de4-481f-802b-78bde3a4b1a9/CarImage_638369352696600087_thumb_900_600.jpg?width=270
+846,846,پراید,4 روز پیش,1396,140000,SE,اصفهان / مفتح,,/images/default-images/default-car-white.svg
+847,847,چانگان,4 روز پیش,1398,31800,اتوماتیک,اصفهان / تالار,905000000.0,/images/default-images/default-car-white.svg
+848,848,سیتروئن,4 روز پیش,1398,35000,اتوماتیک,تهران / شهید مطهری,1750000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2cfc6c06-69de-4060-9752-6322f6087334/CarImage_638371930020732090_thumb_900_600.jpeg?width=270
+849,849,پراید,4 روز پیش,1401,42000,SE,بستک,250000000.0,/images/default-images/default-car-white.svg
+850,850,برلیانس,4 روز پیش,1397,62000,1.65 اتوماتیک,تهران / قصر فیروزه۱,695000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/934c6144-adb0-4267-a90e-e9ca50d1c6fe/CarImage_638371923883591106_thumb_900_600.jpg?width=270
+851,851,تیبا,4 روز پیش,1393,226000,SX بنزینی,کرمان,218000000.0,/images/default-images/default-car-white.svg
+852,852,پراید,4 روز پیش,1393,93000,SE,تهران / صادقیه,,/images/default-images/default-car-white.svg
+853,853,کوییک,4 روز پیش,1402,11000,دنده ای,بجنورد,340000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b2129392-c9b5-468e-b852-5de15cc87e89/CarImage_638371911299585462_thumb_900_600.jpg?width=270
+854,854,کیا,4 روز پیش,1398,69000,2.0 لیتر آپشنال,اصفهان / بزرگمهر,1530000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/957bdd64-f0f0-4d49-8da8-21c373b246d2/CarImage_638371906463467721_thumb_900_600.jpg?width=270
+855,855,ساینا,4 روز پیش,1396,148000,دنده ای,تهران / جردن,260000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fc22a052-1237-44bd-bfbe-fe5c6ba5761b/CarImage_638371904899861466_thumb_900_600.jpg?width=270
+856,856,شاهین,4 روز پیش,1400,26000,دنده ای,تهران / پیروزی,515000000.0,/images/default-images/default-car-white.svg
+857,857,پراید,4 روز پیش,1385,618000,ساده,رباط کریم,,/images/default-images/default-car-white.svg
+858,858,پراید,4 روز پیش,1384,260000,دنده ای,تهران / سعادت‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8593029f-87e1-45c5-b3d7-ce673a431d51/CarImage_638371887707681849_thumb_900_600.jpg?width=270
+859,859,کوییک,4 روز پیش,1401,0,دنده ای,تهران / میدان حر,334000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2280b011-7a9b-4c03-a092-a2ad1eaf7f68/CarImage_638371867663232251_thumb_900_600.jpg?width=270
+860,860,پراید,4 روز پیش,1399,106000,SE,ری,270000000.0,/images/default-images/default-car-white.svg
+861,861,پراید,4 روز پیش,1385,0,دنده ای,اصفهان,93000000.0,/images/default-images/default-car-white.svg
+862,862,کیا,4 روز پیش,1388,215000,دنده ای,کرج / باغستان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e7664117-5163-4753-aa61-c863b27aab86/CarImage_638371687455957209_thumb_900_600.jpg?width=270
+863,863,برلیانس,4 روز پیش,1397,60000,1.65 اتوماتیک,میاندوآب,650000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/adc4d903-e85b-4d71-bd5a-c9742aee05b0/CarImage_638371675006415387_thumb_900_600.jpg?width=270
+864,864,پراید,5 روز پیش,1392,200000,SE,کرج / مهرشهر - فاز 1,175000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d77fc15b-ee4e-4396-851f-39bc9f8cdd3e/CarImage_638371588664721059_thumb_900_600.jpg?width=270
+865,865,پراید,5 روز پیش,1389,164000,SL,شهریار / شهریار,,/images/default-images/default-car-white.svg
+866,866,پراید,5 روز پیش,1397,60000,SE,کوهدشت,273000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8756a53b-6097-4e95-a7e9-f719c236ef71/CarImage_638371578649083099_thumb_900_600.jpg?width=270
+867,867,تیبا,5 روز پیش,1399,49000,SX بنزینی,تهران / جوادیه,295000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0f0f3412-e138-4662-8709-2a30b9f28ba7/CarImage_638371577512864980_thumb_900_600.jpg?width=270
+868,868,ساینا,5 روز پیش,1402,0,دنده ای بنزینی,شیروان,360000000.0,/images/default-images/default-car-white.svg
+869,869,تیبا,5 روز پیش,1400,16000,SX بنزینی,شیراز / مشیر غربی,305000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f2131405-32aa-4780-9b17-ca1a5870ba70/CarImage_638371546753153398_thumb_900_600.jpeg?width=270
+870,870,کوییک,5 روز پیش,1401,0,دنده ای,اصفهان,333000000.0,/images/default-images/default-car-white.svg
+871,871,پراید,5 روز پیش,1397,87000,SE,نطنز,230000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/be581aa9-1b62-4970-99e3-40a5db33fe6d/CarImage_638371544601021499_thumb_900_600.jpg?width=270
+872,872,تیبا,5 روز پیش,1397,45000,EX,تهران / 17 شهریور,277000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fe546972-bccf-42b1-9a5a-764021a69822/CarImage_638371509477627464_thumb_900_600.jpg?width=270
+873,873,تیبا,5 روز پیش,1399,49000,EX,تهران / سعادت‌آباد,273000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/9883a28f-d14b-467f-ace6-1e4acd49e4b1/CarImage_638371508459400067_thumb_900_600.jpeg?width=270
+874,874,کوییک,5 روز پیش,1402,0,دنده ای,تهران / امیریه,350000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d5673748-4720-4ab5-9331-b135ad0b2f4a/CarImage_638371506252843319_thumb_900_600.jpg?width=270
+875,875,کوییک,5 روز پیش,1400,61000,دنده ای,پاکدشت,277000000.0,/images/default-images/default-car-white.svg
+876,876,تیبا,5 روز پیش,1397,75000,SX دوگانه سوز,تهران / امام حسین(ع),,/images/default-images/default-car-white.svg
+877,877,چانگان,5 روز پیش,1396,53000,اتوماتیک,تهران / پونک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/dc93ab8b-059c-4c62-9ca1-9af6c1984558/CarImage_638371499570591359_thumb_900_600.jpg?width=270
+878,878,پراید,5 روز پیش,1389,150000,EX,یزد / تماس یا پیام بدهید,150000000.0,/images/default-images/default-car-white.svg
+879,879,کوییک,5 روز پیش,1399,75000,دنده ای,تهران / تهران‌سر,295000000.0,/images/default-images/default-car-white.svg
+880,880,کوییک,5 روز پیش,1402,0,دنده ای,شهریار,355000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2af8d68b-1d1f-4277-8df0-9308def226a8/CarImage_638371471486173356_thumb_900_600.jpg?width=270
+881,881,ساینا,5 روز پیش,1402,0,دنده ای گازسوز,کرج / فردیس,380000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e5b36c47-1a14-495b-9763-9ee321dc4601/CarImage_638371455059169419_thumb_900_600.jpg?width=270
+882,882,پراید,5 روز پیش,1392,132000,SE,/ مارلیک,200000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/345e77cb-912c-4c9c-97fe-381c8003c88f/CarImage_638371452237331568_thumb_900_600.jpg?width=270
+883,883,کوییک,5 روز پیش,1402,0,اتوماتیک,تهران / جنت‌آباد جنوبی,450000000.0,/images/default-images/default-car-white.svg
+884,884,سیتروئن,5 روز پیش,1386,230000,2.0 لیتر SX,ورامین / ورامین,480000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/291bcd26-7efa-4d01-b7a7-bca0388db4d0/CarImage_638371441300849832_thumb_900_600.jpg?width=270
+885,885,پراید,5 روز پیش,1389,260000,دنده ای,کرمان,160000000.0,/images/default-images/default-car-white.svg
+886,886,کوییک,5 روز پیش,1401,0,دنده ای,کرج / مهرشهر - فاز 1,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2066897c-da12-4ede-a945-2bbd60b1c7a5/CarImage_638371432803029847_thumb_900_600.jpeg?width=270
+887,887,برلیانس,5 روز پیش,1397,65000,1.5 دنده ای,تهران / پیروزی,550000000.0,/images/default-images/default-car-white.svg
+888,888,شاهین,5 روز پیش,1402,0,دنده ای,ری,605000000.0,/images/default-images/default-car-white.svg
+889,889,کوییک,5 روز پیش,1401,11000,دنده ای,شیراز / شهر صدرا,327000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0684dd93-bed0-4ac5-8ab1-72395a68be5c/CarImage_638371412451921826_thumb_900_600.jpg?width=270
+890,890,سیتروئن,5 روز پیش,1389,240000,2.0 لیتر SX,نورآباد ممسنی,485000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/94d978e9-4c2d-4d97-8d07-432468c3912d/CarImage_638371412004241866_thumb_900_600.jpg?width=270
+891,891,زوتی,5 روز پیش,2014,160000,اتوماتیک,تهران / دروس,550000000.0,/images/default-images/default-car-white.svg
+892,892,پراید,5 روز پیش,1388,330000,SX,کرج / کلاک نو,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a2654702-f2e8-4495-9313-33d6facbc983/CarImage_638371411170049162_thumb_900_600.jpeg?width=270
+893,893,تیبا,5 روز پیش,1397,100000,SX بنزینی,تهران / تهران نو,260000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e0e223a7-2627-4503-8ca7-c26e61082ab0/CarImage_638371402587986612_thumb_900_600.jpg?width=270
+894,894,چانگان,5 روز پیش,2023,0,تیپ 3,تهران / سعادت‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/75f577e1-07c1-46ad-8a2e-c2bba419a44b/CarImage_638371400403975945_thumb_900_600.jpeg?width=270
+895,895,چانگان,5 روز پیش,2023,0,تیپ 3,تهران / سعادت‌آباد,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/d95edeb1-e374-4c20-bdf2-637fa228e97d/CarImage_638371399129211557_thumb_900_600.jpeg?width=270
+896,896,پراید,5 روز پیش,1389,120000,دنده ای,ساری,160000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/cac3be9d-746a-4943-a879-97c4d48e0600/CarImage_638371398324812040_1_1_thumb_900_600.jpg?width=270
+897,897,کیا,5 روز پیش,1397,60000,2.0 لیتر آپشنال,تهران / سهروردی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/e2a40d47-de52-4baf-9e20-c1fc083b28d8/CarImage_638371372881415360_thumb_900_600.jpeg?width=270
+898,898,کوییک,5 روز پیش,1401,22000,دنده ای,کرج / فردیس,313000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/48767a36-6749-4e27-890b-6169400df234/CarImage_638371359519349367_thumb_900_600.jpg?width=270
+899,899,برلیانس,5 روز پیش,1396,124000,1.5 اتوماتیک,آمل,600000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/823fae6e-4b28-4918-85f8-332079edca64/CarImage_638371358078894933_thumb_900_600.jpeg?width=270
+900,900,کیا,5 روز پیش,1397,49000,2.0 لیتر آپشنال,تهران / شهرک غرب,1450000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fb734015-b420-4783-9fa4-9db985c3226f/CarImage_638371351857677083_thumb_900_600.jpg?width=270
+901,901,تیبا,5 روز پیش,1401,0,EX,شاهین شهر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/be570146-5d16-4d3a-a61b-2eea286de290/CarImage_638371345426259964_thumb_900_600.jpg?width=270
+902,902,پراید,5 روز پیش,1402,0,SE,هشتگرد,278000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c2ba4a60-a9c0-4ae9-a47c-da921f0a24b1/CarImage_638371344538086553_thumb_900_600.jpg?width=270
+903,903,تیبا,5 روز پیش,1399,63000,SX بنزینی,تهران / میدان هروی,250000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fbdca839-d670-4556-a4ce-68e8680a8ada/CarImage_638371331990845861_thumb_900_600.jpg?width=270
+904,904,تیبا,5 روز پیش,1397,153000,EX,تهران / تهران‌سر,262000000.0,/images/default-images/default-car-white.svg
+905,905,سیتروئن,5 روز پیش,1389,0,2.0 لیتر SX,اصفهان / باغ زیار,360000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/47ff2352-51ba-490a-b80f-9448f2f8df08/CarImage_638371331660615988_thumb_900_600.jpg?width=270
+906,906,شاهین,5 روز پیش,1402,20400,دنده ای,جوانرود,558000000.0,/images/default-images/default-car-white.svg
+907,907,تیبا,5 روز پیش,1401,20000,EX,لاهیجان,312000000.0,/images/default-images/default-car-white.svg
+908,908,کوییک,5 روز پیش,1402,0,دنده ای,تهران / شریعتی,355000000.0,/images/default-images/default-car-white.svg
+909,909,تیبا,5 روز پیش,1395,65000,EX,تهران / امیرآباد,255000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2693b315-fc7a-4d37-907a-e1a378b8386f/CarImage_638371314304164781_thumb_900_600.jpeg?width=270
+910,910,پراید,5 روز پیش,1402,0,SE,تهران / نارمک,275000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/c835c9d1-6256-4c74-a494-a38d7c981047/CarImage_638371312649049050_thumb_900_600.jpg?width=270
+911,911,پراید,5 روز پیش,1374,292000,دنده ای,تهران / شهرک آزادی,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/25c764db-5453-4132-ae31-687abf167c03/CarImage_638371293620383707_thumb_900_600.jpg?width=270
+912,912,پراید,5 روز پیش,1376,300000,دنده ای,مشهد / خواجه ربیع,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/af67b2b6-9c39-4f01-8632-b048e048fc6d/CarImage_638371281088649965_thumb_900_600.jpg?width=270
+913,913,کیا,5 روز پیش,1397,49500,2.0 لیتر آپشنال,تهران / نیرو هوایی,1500000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f7176c4c-bf93-4ee0-9b34-0a6589d84a4a/CarImage_638371270936151369_thumb_900_600.jpeg?width=270
+914,914,چانگان,5 روز پیش,2015,110000,اتوماتیک,تهران / ولنجک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b3aa0e0a-ed50-463b-9c5b-8c88b3f445cc/CarImage_638371270164878146_thumb_900_600.jpeg?width=270
+915,915,پراید,5 روز پیش,1398,93000,SE,تهران / خانی‌آباد نو,220000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/4b234d16-8263-4773-824c-f11728fd5e79/CarImage_638371269875308569_thumb_900_600.jpeg?width=270
+916,916,پراید,5 روز پیش,1397,68000,SE,تهران / سلسبیل,240000000.0,/images/default-images/default-car-white.svg
+917,917,پراید,5 روز پیش,1395,190000,SE,تهران / ظفر,,/images/default-images/default-car-white.svg
+918,918,کیا,5 روز پیش,1394,88000,2.0 لیتر ساده,تهران / دروس,1100000000.0,/images/default-images/default-car-white.svg
+919,919,کوییک,5 روز پیش,1401,14000,دنده ای,تهران / اباذر,324000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/0cef16c3-889a-4ede-9659-5418ffbf69fe/CarImage_638371262767680724_thumb_900_600.jpg?width=270
+920,920,تیبا,5 روز پیش,1401,33000,SX بنزینی,تهران / مجیدآباد,315000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/bf364209-a419-4935-9284-f1930b4b511d/CarImage_638371259831077262_thumb_900_600.jpg?width=270
+921,921,تیبا,5 روز پیش,1399,62000,SX بنزینی,تهران / پیروزی,278000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a5157de4-561b-4025-b1c2-575cd8ab8221/CarImage_638371259601934478_thumb_900_600.jpg?width=270
+922,922,کوییک,5 روز پیش,1400,47000,دنده ای,تهران / چهار راه قصر,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/ffec272d-175b-45c9-b5ea-9f3fde3fd0eb/CarImage_638371255170326824_thumb_900_600.jpeg?width=270
+923,923,پراید,5 روز پیش,1388,125000,ساده,مریوان,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/984f8e68-28d4-44e8-b2f1-0e249cea926b/CarImage_638371335651622427_thumb_900_600.jpg?width=270
+924,924,سیتروئن,5 روز پیش,1387,37060,2.0 لیتر SX,تهران / پونک,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/a4e42cdf-94cf-49db-9661-f8bd9bb8abfc/CarImage_638365219432423524_thumb_900_600.jpeg?width=270
+925,925,تیبا,5 روز پیش,1391,145000,SX بنزینی,کرج,205000000.0,/images/default-images/default-car-white.svg
+926,926,شاهین,5 روز پیش,1402,0,دنده ای,اصفهان / شهشهان,590000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/2149fa16-6492-476d-916a-857ec934a790/CarImage_638371235886662960_thumb_900_600.jpg?width=270
+927,927,کوییک,5 روز پیش,1400,0,دنده ای,تهران / ستارخان,315000000.0,/images/default-images/default-car-white.svg
+928,928,کوییک,5 روز پیش,1402,0,دنده ای,تهران / چیتگر,355000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/acfeac20-6a42-4ac2-98d5-242f66e91a08/CarImage_638371232912447545_thumb_900_600.jpg?width=270
+929,929,چانگان,5 روز پیش,1397,101000,اتوماتیک,تهران / کامرانیه,800000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/f898ec6d-5852-4f25-a990-0ab261ac69d4/CarImage_638371227252572560_thumb_900_600.jpg?width=270
+930,930,پراید,5 روز پیش,1384,0,ساده,گرگان,,/images/default-images/default-car-white.svg
+931,931,شاهین,5 روز پیش,1402,0,دنده ای,اصفهان / احمدآباد,589000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/fa2e8b88-98ce-4fae-ab98-84596b859b74/CarImage_638371218941196089_thumb_900_600.jpg?width=270
+932,932,پراید,5 روز پیش,1401,0,SE,نوشهر,265000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/40671d5e-1770-479f-8adb-a287fa39bf9f/CarImage_638371218077942411_thumb_900_600.jpeg?width=270
+933,933,پراید,5 روز پیش,1402,15000,SE,تهران / سرو آزاد,275000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/7106a1d3-934c-4818-94d3-82465e034161/CarImage_638371217373697568_thumb_900_600.jpg?width=270
+934,934,پراید,5 روز پیش,1392,201000,EX,شهریار,205000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/daa254f2-57e6-413c-868b-d778aaa16eaf/CarImage_638371212083973901_thumb_900_600.jpg?width=270
+935,935,کوییک,5 روز پیش,1400,25000,دنده ای,تهران / ارامنه,300000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/b8262021-4703-49a8-afa1-b5b1ee8519e4/CarImage_638371211317625486_thumb_900_600.jpg?width=270
+936,936,کیا,5 روز پیش,1397,10000,2.0 لیتر آپشنال,اصفهان / خیابان ارتش,1500000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/593a7294-c4fd-4e2b-ae1f-7360de61906a/CarImage_638371208423026519_thumb_900_600.jpg?width=270
+937,937,کیا,5 روز پیش,1395,150000,2.0 لیتر ساده,تهران / اختیاریه,1150000000.0,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8aade050-023e-4328-9c97-cf5c41b0d060/CarImage_638371205414220793_thumb_900_600.jpg?width=270
+938,938,پراید,5 روز پیش,1402,0,SE,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/09523115-b142-4ead-b979-707cde646ba7/CarImage10512743_638245958378748388_thumb_900_600.jpg?width=270
+939,939,شاهین,5 روز پیش,1402,0,دنده ای,,,https://cdn.bama.ir/uploads/BamaImages/VehicleCarImages/8d38d379-fb5b-48d8-867d-e48516c773bd/CarImage_638326240956128023_thumb_900_600.jpg?width=270
